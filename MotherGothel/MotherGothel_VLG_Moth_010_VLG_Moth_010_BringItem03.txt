@@ -10,6 +10,6 @@
 "MotherGothel_018_f", "<Lore>(窸窸窣窣)*錄音聲*七百五十二，七百五十三……</Lore>"
 "MotherGothel_004_f", "<Lore>(窸窸窣窣)*錄音聲*史高治叔叔，我有件事情要告訴你！</Lore>"
 "MotherGothel_005_f", "<Lore>(窸窸窣窣)*錄音聲*讓我把錢數完再說。七百五十四……</Lore>"
-"MotherGothel_006_f", "<Lore>(窸窸窣窣)*錄音聲*你先聽我說。有人想偷走你的</Lore><ActivityItem>卷軸</ActivityItem><Lore>！</Lore>"
+"MotherGothel_006_f", "<Lore>(窸窸窣窣)*錄音聲*你先聽我說。有人想偷走你的</Lore><ActivityItem>捲軸</ActivityItem><Lore>！</Lore>"
 "MotherGothel_001_f", "<Lore>(窸窸窣窣)*錄音聲* 我早就知道！這麼多流氓晃來晃去，我被盯上也很正常……</Lore>"
-"MotherGothel_003_f", "<Lore>(窸窸窣窣）*錄音聲* 不過不用擔心。我把</Lore><ActivityItem>卷軸</ActivityItem><Lore>藏在炫麗海灘一個洞穴附近上鎖的箱子裡了。</Lore>"
+"MotherGothel_003_f", "<Lore>(窸窸窣窣）*錄音聲* 不過不用擔心。我把</Lore><ActivityItem>捲軸</ActivityItem><Lore>藏在炫麗海灘一個洞穴附近上鎖的箱子裡了。</Lore>"

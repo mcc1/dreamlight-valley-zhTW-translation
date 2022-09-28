@@ -14,5 +14,5 @@
 "Village!LilMermaid!Ursula!VLG_Ursu_040_Group03_StepDescription", "把神秘的花朵帶給烏蘇拉"
 "Village!LilMermaid!Ursula!VLG_Ursu_040_Group03_StoryDescription", "葛索媽媽收到你答應給她的食物後，她把神秘花朵的資訊告訴了你。你需要把植物帶給烏蘇拉。"
 "Village!LilMermaid!Ursula!VLG_Ursu_040_Group05_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>我該做什麼？"
-"Village!LilMermaid!Ursula!VLG_Ursu_040_Group05_StepDescription", "把<ActivityItem>壽司</ActivityItem>和<ActivityItem>龍蝦卷</ActivityItem>帶給葛索媽媽"
+"Village!LilMermaid!Ursula!VLG_Ursu_040_Group05_StepDescription", "把<ActivityItem>壽司</ActivityItem>和<ActivityItem>龍蝦捲</ActivityItem>帶給葛索媽媽"
 "Village!LilMermaid!Ursula!VLG_Ursu_040_StartRequestButton", "<smallcaps>{title}</smallcaps><br>開始任務"

@@ -7,7 +7,7 @@
 "Player_000_choice_005_f", "我會被詛咒之類的嗎？"
 "MotherGothel_005_f", "噢，很高興聽你這麼說。"
 "MotherGothel_008_f", "無論發生什麼，我都想知道。你在下面不管找到什麼東西，都拿給我看看。"
-"MotherGothel_006_f", "這一點<ActivityItem>卷軸</ActivityItem>上沒說清楚，但是……"
+"MotherGothel_006_f", "這一點<ActivityItem>捲軸</ActivityItem>上沒說清楚，但是……"
 "MotherGothel_007_f", "不……"
 "MotherGothel_009_f", "也許？"
 "MotherGothel_011_f", "親愛的，我相信你能勝任這項任務。"

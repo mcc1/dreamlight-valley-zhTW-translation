@@ -1,1 +1,1 @@
-"MotherGothel_000_f", "我已經翻譯了一部分史高治的<ActivityItem>太陽卷軸</ActivityItem>，這都歸功於你那……微不足道的貢獻。"
+"MotherGothel_000_f", "我已經翻譯了一部分史高治的<ActivityItem>太陽捲軸</ActivityItem>，這都歸功於你那……微不足道的貢獻。"

@@ -5,7 +5,7 @@
 "Player_000_choice_002_f", "我覺得情人眼裡出西施……"
 "MotherGothel_008_f", "當然啦，親愛的。"
 "MotherGothel_000_f", "保持青春只是<ActivityItem>太陽石</ActivityItem>力量的一小部分。等我把它放到大柳樹上，它會惠及我們所有人。"
-"MotherGothel_001_f", "我很高興你能幫我，{PlayerName}。從傻不拉幾的史高治那拿到<ActivityItem>卷軸</ActivityItem>……"
+"MotherGothel_001_f", "我很高興你能幫我，{PlayerName}。從傻不拉幾的史高治那拿到<ActivityItem>捲軸</ActivityItem>……"
 "MotherGothel_002_f", "前往神秘洞穴，尋找<ActivityItem>碎片</ActivityItem>……"
 "MotherGothel_003_f", "鑑於你這麼擅長跑腿，我想送你一份禮物。"
 "MotherGothel_004_f", "我知道你會喜歡的。不，不，不！不用給我任何回報，雖然你肯定想。"
