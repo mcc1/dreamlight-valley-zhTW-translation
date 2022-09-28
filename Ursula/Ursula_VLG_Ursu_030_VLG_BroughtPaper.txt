@@ -1,0 +1,5 @@
+"Ursula_000_f", "幹得好，天使魚！"
+"Ursula_004_f", "快幫我做<ActivityItem>魔法卷軸和墨水</ActivityItem>吧。我喜歡隨身帶著一些，方便快速達成交易。"
+"Ursula_005_f", "啊，他們需要一點星谷的魔法。"
+"Ursula_001_f", "用上你找到的<ActivityItem>紙</ActivityItem>，找些<ActivityItem>夢之碎片</ActivityItem>，然後從花中提取<ActivityItem>紫墨水</ActivityItem>。"
+"Ursula_002_f", "畢竟，爲了完美的原料，你不得不破壞一些美麗之物。"

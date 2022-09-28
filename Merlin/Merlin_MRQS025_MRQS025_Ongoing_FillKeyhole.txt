@@ -1,0 +1,1 @@
+"Merlin_000_f", "把<ActivityItem>寶珠</ActivityItem>放回它在柱子上的正確位置，魔法就會恢復！"

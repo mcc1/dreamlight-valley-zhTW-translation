@@ -1,0 +1,4 @@
+"Village!Frozen!Kristoff!VLG_Kristoff010_Grooming_AvailableDescription", "跟克里斯托夫交談。"
+"Village!Frozen!Kristoff!VLG_Kristoff010_Grooming_Group01_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>現在怎麼辦？"
+"Village!Frozen!Kristoff!VLG_Kristoff010_Grooming_Group03_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>我們需要什麼？"
+"Village!Frozen!Kristoff!VLG_Kristoff010_Grooming_StartRequestButton", "<smallcaps>{title}</smallcaps><br>開始任務"

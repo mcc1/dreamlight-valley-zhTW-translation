@@ -1,0 +1,8 @@
+"Story!ORQS_Scro_020_Beach_Any_CompletedRequestDescription", "與史高治交談"
+"Story!ORQS_Scro_020_Beach_AvailableDescription", "炫麗海灘的柱子已修復，好好開發這片一流的臨海地產吧。"
+"Story!ORQS_Scro_020_Beach_CompletedStoryDescription", "你裝飾了炫麗海灘，把它變成了一流的臨海地產。"
+"Story!ORQS_Scro_020_Beach_DisplayName", "重建星谷：炫麗海灘"
+"Story!ORQS_Scro_020_Beach_Group01_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>我要做什麼？"
+"Story!ORQS_Scro_020_Beach_Group01_Step01_Decorate01_StepDescription", "放置{TargetAmount}件家具"
+"Story!ORQS_Scro_020_Beach_Group01_Step01_StepDescription", "裝飾炫麗海灘"
+"Story!ORQS_Scro_020_Beach_StartRequestButton", "<smallcaps>{title}</smallcaps><br>開始任務"

@@ -1,0 +1,1 @@
+"PrinceEric_000_f", "我的羅盤需要一塊新的<ActivityItem>夢幻星光磁鐵</ActivityItem>，瓦力的書上說我們可以用<ActivityItem>鑄補零件</ActivityItem>、<ActivityItem>鐵塊</ActivityItem>和<ActivityItem>水晶</ActivityItem>做一塊新的。"

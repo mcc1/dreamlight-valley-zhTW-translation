@@ -1,0 +1,3 @@
+"Village!Frozen!Kristoff!VLG_Kristoff_040_Group02_Step02_Possess03_StepDescription", "<ActivityItem>鐵塊</ActivityItem>"
+"Village!Frozen!Kristoff!VLG_Kristoff_040_Group08_Step08_BringItem03_StepDescription", "<ActivityItem>磚塊</ActivityItem>"
+"Village!Frozen!Kristoff!VLG_Kristoff_040_Group08_Step08_BringItem04_StepDescription", "<ActivityItem>玻璃</ActivityItem>"

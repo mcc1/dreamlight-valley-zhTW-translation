@@ -1,0 +1,8 @@
+"WallE_004_f", "瓦力，你能幫我把這些<ActivityItem>碎片</ActivityItem>碾成粉末嗎？"
+"WallE_000_f", "瓦力！"
+"WallE_001_f", "你看！"
+"Player_000_f", "粉末像夜晚一樣黑！"
+"Player_000_choice_000_f", "謝謝你，瓦力！"
+"Player_000_choice_001_f", "升級好的灑水壺，我來啦！"
+"WallE_002_f", "唔嘀！"
+"WallE_003_f", "唔嘀！"

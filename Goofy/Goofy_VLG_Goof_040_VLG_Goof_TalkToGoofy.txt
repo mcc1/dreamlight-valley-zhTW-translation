@@ -1,0 +1,5 @@
+"Goofy_000_f", "這些新鮮的海鮮可以做一頓大餐了！"
+"Goofy_004_f", "但要做<ActivityItem>法式海鮮湯</ActivityItem>光有海鮮可不夠。"
+"Goofy_001_f", "還得有<ActivityItem>番茄</ActivityItem>和一些別的蔬菜。"
+"Goofy_002_f", "食譜非常靈活。你能挑選一種要加的蔬菜嗎？"
+"Goofy_005_f", "食譜給你！"

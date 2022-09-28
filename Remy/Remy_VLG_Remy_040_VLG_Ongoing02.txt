@@ -1,0 +1,2 @@
+"Remy_000_f", "做這個甜點需要<ActivityItem>純凈<ActivityItem>夜之碎片</ActivityItem>粉末</ActivityItem>。"
+"Remy_001_f", "你有認識能碾磨<ActivityItem>純凈夜之碎片</ActivityItem>的人嗎？"

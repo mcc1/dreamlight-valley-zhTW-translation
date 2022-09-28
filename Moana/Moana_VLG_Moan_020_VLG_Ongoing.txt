@@ -1,0 +1,3 @@
+"Moana_000_f", "幫我為毛伊做一份<ActivityItem>海鮮沙拉</ActivityItem>，一份<ActivityItem>水果沙拉</ActivityItem>和一份<ActivityItem>海鮮拼盤</ActivityItem>。"
+"Moana_001_f", "小米告訴我，<ActivityItem>海鮮沙拉</ActivityItem>可以用你喜歡的任何海鮮配上<ActivityItem>生菜</ActivityItem>。"
+"Moana_002_f", "<ActivityItem>水果沙拉</ActivityItem>可以用你有的任意水果。而<ActivityItem>海鮮拼盤</ActivityItem>可以用任意兩種海鮮。"

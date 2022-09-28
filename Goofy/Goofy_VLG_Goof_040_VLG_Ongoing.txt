@@ -1,0 +1,1 @@
+"Goofy_000_f", "我們去海灘上抓一些新鮮的<ActivityItem>扇貝</ActivityItem>、<ActivityItem>蝦</ActivityItem>和<ActivityItem>蛤蜊</ActivityItem>吧！"

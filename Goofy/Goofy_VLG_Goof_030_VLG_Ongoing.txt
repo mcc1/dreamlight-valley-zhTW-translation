@@ -1,0 +1,3 @@
+"Goofy_000_f", "記住，你要拍攝些植物照片來製作我們的剪貼簿。"
+"Goofy_001_f", "我看看……廣場上長著<ActivityItem>蘋果樹</ActivityItem>。草地上長著<ActivityItem>樹莓叢</ActivityItem>。"
+"Goofy_002_f", "海灘上長著<ActivityItem>香蕉樹</ActivityItem>，草地上也長著一些！"

@@ -1,0 +1,6 @@
+"Scrooge_000_f", "你要為王子建一座城堡？別擔心，史高治建築公司能夠勝任，而且價格也公道。"
+"Player_000_choice_000_f", "爲了幫助亞力克王子，這是值得的。(使用{UpgradePrice}<sprite="iconCurrencySoft" index=0>)"
+"Player_000_choice_001_f", "下次吧。"
+"Scrooge_002_f", "見到小屋後，我保證你絕對不會後悔的。"
+"Scrooge_001_f", "你攢的那點小錢可建不了城堡。多攢點再來吧。"
+"Scrooge_003_f", "這麼跟你說吧，你上哪兒都找不到比這更低的價格了。"

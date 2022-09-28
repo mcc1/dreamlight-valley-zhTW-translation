@@ -1,0 +1,1 @@
+"Scrooge_000_f", "{PlayerName}，再接再厲！"

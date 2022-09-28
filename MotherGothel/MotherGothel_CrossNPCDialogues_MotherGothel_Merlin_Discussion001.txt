@@ -1,0 +1,7 @@
+"MotherGothel_000_f", "梅林，作為一個巫師，你擁有很強大的力量，對嗎？"
+"MotherGothel_001_f", "嗯，我……呃……經過多年的魔法學習，我當然能力出衆。"
+"MotherGothel_002_f", "那你要告訴我，你為什麼——"
+"MotherGothel_003_f", "引導別人？傳授智慧？"
+"MotherGothel_004_f", "……看起來這麼老？"
+"MotherGothel_006_f", "哈哈，我只是開個玩笑！"
+"MotherGothel_005_f", "嗯，女士，我覺得這次對話沒有任何價值。再見。"

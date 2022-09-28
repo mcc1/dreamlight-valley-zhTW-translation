@@ -1,0 +1,6 @@
+"Scrooge_000_f", "所以你想進一步投資瓦力的花園，對吧？行，投資之後，花園面積會更大，消耗的精力也會減少。"
+"Player_000_choice_000_f", "升級瓦力的花園。(使用{UpgradePrice}<sprite="iconCurrencySoft" index=0>)"
+"Player_000_choice_001_f", "或許以後再說。"
+"Scrooge_002_f", "我的天哪！你看到了嗎？"
+"Scrooge_005_f", "哎呀！你的星幣不夠，無法升級瓦力的花園！等你攢夠錢再來吧，{PlayerName}。"
+"Scrooge_003_f", "天啊！別再浪費我的時間了，等你真的想投資星谷時再來找我吧。"

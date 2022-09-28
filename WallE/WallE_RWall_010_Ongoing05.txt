@@ -1,0 +1,4 @@
+"WallE_000_f", "嗯……"
+"WallE_001_f", "我猜你也想增加些收藏吧？"
+"WallE_002_f", "哇哦！"
+"WallE_003_f", "史高治有個<ActivityItem>滅火器</ActivityItem>，他想用來跟我交換<ActivityItem>石榴石</ActivityItem>。"

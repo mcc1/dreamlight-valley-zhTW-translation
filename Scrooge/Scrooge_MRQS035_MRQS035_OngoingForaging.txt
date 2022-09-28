@@ -1,0 +1,2 @@
+"Scrooge_000_f", "想找<ActivityItem>軟木材</ActivityItem>很簡單，四處逛逛就行，總會找到一些的。"
+"Scrooge_001_f", "你也可以看看樹下，有時候樹枝會落下來。"

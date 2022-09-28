@@ -1,0 +1,7 @@
+"Mickey_000_f", "村莊看起來真好看！{PlayerName}，你做得很好。"
+"Player_000_choice_000_f", "謝謝你，米奇！"
+"Player_000_choice_001_f", "靠我一個人是無法完成的！"
+"Player_000_choice_002_f", "我知道！"
+"Mickey_001_f", "你說的沒錯！再接再厲！"
+"Mickey_002_f", "天啊，這對你來說意義重大。"
+"Mickey_003_f", "嘿嘿。你也很自信。"

@@ -1,0 +1,4 @@
+"Anna_000_f", "想做<ActivityItem>石頭湯</ActivityItem>的話，我們就得先準備材料……"
+"Anna_001_f", "我們需要一些<ActivityItem>嶙峋石</ActivityItem>、<ActivityItem>羅勒</ActivityItem>和<ActivityItem>奧勒岡</ActivityItem>。"
+"Anna_002_f", "我們在這兒附近一定能找到正確的石頭。"
+"Anna_003_f", "等我收集到所有原料，我們就做成湯然後放在大地巨人的腳邊。"

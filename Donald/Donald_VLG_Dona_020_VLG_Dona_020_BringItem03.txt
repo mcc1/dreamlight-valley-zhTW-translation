@@ -1,0 +1,4 @@
+"Donald_000_f", "什麼？！你又找到一個我藏在村莊裡的<ActivityItem>時間膠囊</ActivityItem>？"
+"Donald_002_f", "快給我！"
+"Donald_001_f", "啊！這蓋子也擰得太緊了！得……用勁……"
+"Donald_003_f", "給，我擰開了。你來打開吧。"

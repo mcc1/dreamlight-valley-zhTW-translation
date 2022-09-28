@@ -1,0 +1,2 @@
+"Merlin_001_f", "你說讓我暫停研究休息一下。"
+"Merlin_000_f", "我好像聽你說到了<ActivityItem>濃湯</ActivityItem>。"

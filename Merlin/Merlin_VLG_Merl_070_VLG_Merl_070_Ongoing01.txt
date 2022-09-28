@@ -1,0 +1,2 @@
+"Merlin_000_f", "你需要<ActivityItem>夜之碎片</ActivityItem>和<ActivityItem>夢之碎片</ActivityItem>，才能創造出<ActivityItem>純凈夜之碎片</ActivityItem>。"
+"Merlin_001_f", "和瓦力談談，看他能不能把碎片碾壓成粉末。"

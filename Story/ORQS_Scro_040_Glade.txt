@@ -1,0 +1,8 @@
+"Story!ORQS_Scro_040_Glade_Any_CompletedRequestDescription", "與史高治交談"
+"Story!ORQS_Scro_040_Glade_AvailableDescription", "信仰林地的柱子已經修復，該美化一下這片古老的沼澤了。"
+"Story!ORQS_Scro_040_Glade_CompletedStoryDescription", "你把信仰林地變成了一個美麗的地方。"
+"Story!ORQS_Scro_040_Glade_DisplayName", "重建星谷：信仰林地"
+"Story!ORQS_Scro_040_Glade_Group01_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>我要做什麼？"
+"Story!ORQS_Scro_040_Glade_Group01_Step01_Decorate01_StepDescription", "放置{TargetAmount}件家具"
+"Story!ORQS_Scro_040_Glade_Group01_Step01_StepDescription", "裝飾信仰林地"
+"Story!ORQS_Scro_040_Glade_StartRequestButton", "<smallcaps>{title}</smallcaps><br>開始任務"

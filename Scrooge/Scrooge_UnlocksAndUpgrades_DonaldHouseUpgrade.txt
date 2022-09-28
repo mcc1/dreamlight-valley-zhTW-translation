@@ -1,0 +1,6 @@
+"Scrooge_000_f", "這可是黃金地產，絕對值得投資。"
+"Player_000_choice_000_f", "我們把屋子修好吧。(使用{UpgradePrice}<sprite="iconCurrencySoft" index=0>)"
+"Player_000_choice_001_f", "下次一定。"
+"Scrooge_001_f", "太棒了！這看上去已經好多了！"
+"Scrooge_002_f", "啊呀！你的星幣不夠，買不了這項資產！別再浪費我的時間了，等你攢夠錢再來。"
+"Scrooge_003_f", "天啊，這投資可太劃算了！你想明白了就回來找我吧。"

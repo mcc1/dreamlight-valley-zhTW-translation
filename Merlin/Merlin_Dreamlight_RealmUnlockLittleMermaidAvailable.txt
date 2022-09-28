@@ -1,0 +1,6 @@
+"Merlin_013_f", "在這裡，一位年輕的姑娘想用她的聲音去交換一雙腿。只有你可以使用你的夢幻星光去開啟這扇門。"
+"Player_002_choice_000_f", "我們來開啟這扇門吧。(使用{UpgradePrice} <sprite="iconCurrencyDreamlight" index=0>)"
+"Player_002_choice_001_f", "下次再說吧。"
+"Merlin_007_f", "太棒了！你解鎖了小美人魚王國！"
+"Merlin_010_f", "你的魔法還不夠強大。你需要收集更多夢幻星光……"
+"Merlin_008_f", "記住：只有你才能打開這些門。"

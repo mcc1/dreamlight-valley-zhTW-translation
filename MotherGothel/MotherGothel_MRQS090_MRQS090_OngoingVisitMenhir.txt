@@ -1,0 +1,2 @@
+"MotherGothel_000_f", "到了信仰之柱，你就知道<ActivityItem>寶珠</ActivityItem>消失了，並且我沒有騙你……"
+"MotherGothel_001_f", "我希望你能對我多些信任。現在的孩子啊……"

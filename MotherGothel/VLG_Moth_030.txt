@@ -1,0 +1,8 @@
+"Village!Tangled!MotherGothel!VLG_Moth_030_AvailableDescription", "葛索媽媽知道<ActivityItem>太陽石</ActivityItem>的下落。它被打碎成三塊<ActivityItem>碎片</ActivityItem>。碎片會在特定的時間和地點出現在村子裡。能不能找到它們，並把它們帶給女巫就看你的了。"
+"Village!Tangled!MotherGothel!VLG_Moth_030_DisplayName", "太陽石碎片"
+"Village!Tangled!MotherGothel!VLG_Moth_030_Group02_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>你能再跟我說說碎片的事嗎？"
+"Village!Tangled!MotherGothel!VLG_Moth_030_Group02_Step02_BringItem01_StepDescription", "上午去日照高原尋找<ActivityItem>碎片</ActivityItem>"
+"Village!Tangled!MotherGothel!VLG_Moth_030_Group02_Step02_BringItem02_StepDescription", "夜晚去勇氣森林尋找<ActivityItem>碎片</ActivityItem>"
+"Village!Tangled!MotherGothel!VLG_Moth_030_Group02_Step02_BringItem03_StepDescription", "中午去信仰林地尋找<ActivityItem>碎片</ActivityItem>"
+"Village!Tangled!MotherGothel!VLG_Moth_030_Group02_Step02_ReadyDescription", "把<ActivityItem>太陽石碎片</ActivityItem>帶給葛索媽媽"
+"Village!Tangled!MotherGothel!VLG_Moth_030_StartRequestButton", "<smallcaps>{title}</smallcaps><br>你知道照片裡是什麼了嗎？"

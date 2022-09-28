@@ -1,0 +1,3 @@
+"Goofy_000_f", "繼續拍攝鮮花的照片！"
+"Goofy_001_f", "廣場附近有<ActivityItem>蒲公英</ActivityItem>和<ActivityItem>低垂釣鐘柳</ActivityItem>。"
+"Goofy_002_f", "草地上有<ActivityItem>雛菊</ActivityItem>和<ActivityItem>直立釣鐘柳</ActivityItem>。"

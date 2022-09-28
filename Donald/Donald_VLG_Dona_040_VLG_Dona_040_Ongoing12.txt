@@ -1,0 +1,1 @@
+"Donald_000_f", "你東西都找齊了。前往製作臺製作<ActivityItem>夢幻噴泉</ActivityItem>吧！"

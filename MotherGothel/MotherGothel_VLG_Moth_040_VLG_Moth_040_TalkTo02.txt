@@ -1,0 +1,1 @@
+"INSTIGATOR_000_f", "幹得好，{PlayerName}，<ActivityItem>黎明石碎片</ActivityItem>又發光了！"

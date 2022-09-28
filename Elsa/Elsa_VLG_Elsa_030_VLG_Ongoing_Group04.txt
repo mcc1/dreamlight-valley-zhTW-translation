@@ -1,0 +1,2 @@
+"Elsa_000_f", "你要從冰窟取一些<ActivityItem>冰塊</ActivityItem>，去霜寒高地取<ActivityItem>一瓶冰凍水</ActivityItem>……"
+"Elsa_001_f", "……還需要一些<ActivityItem>雪</ActivityItem>來製作<ActivityItem>冬寒藥劑</ActivityItem>。"

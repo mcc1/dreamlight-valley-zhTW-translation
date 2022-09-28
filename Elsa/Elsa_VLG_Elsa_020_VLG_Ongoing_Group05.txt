@@ -1,0 +1,2 @@
+"Elsa_000_f", "我已經迫不及待想嚐嚐<ActivityItem>魚肉派</ActivityItem>和<ActivityItem>阿倫戴爾腌鯡魚</ActivityItem>了。"
+"Elsa_001_f", "你要是準備好了，我們就來一起嚐嚐吧。"

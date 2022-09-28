@@ -1,0 +1,7 @@
+"Village!Frozen!Kristoff!VLG_Kristoff030_Stall_Any_CompletedRequestDescription", "跟克里斯托夫交談。"
+"Village!Frozen!Kristoff!VLG_Kristoff030_Stall_AvailableDescription", "克里斯托夫在找你。他有什麼事呢？"
+"Village!Frozen!Kristoff!VLG_Kristoff030_Stall_Group01_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>我們需要什麼？"
+"Village!Frozen!Kristoff!VLG_Kristoff030_Stall_Group06_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>現在該做什麼？"
+"Village!Frozen!Kristoff!VLG_Kristoff030_Stall_Group06_Step06_CraftItem01_StepDescription", "製作<ActivityItem>克里斯托夫的貨攤</ActivityItem>"
+"Village!Frozen!Kristoff!VLG_Kristoff030_Stall_Group07_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>你想把貨攤擺在哪兒？"
+"Village!Frozen!Kristoff!VLG_Kristoff030_Stall_StartRequestButton", "<smallcaps>{title}</smallcaps><br>開始任務"

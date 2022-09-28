@@ -1,0 +1,2 @@
+"Moana_000_f", "一切準備好了嗎？"
+"Moana_001_f", "只剩最後一件事了：把<ActivityItem>領袖碎片</ActivityItem>放到榮耀基座上。"

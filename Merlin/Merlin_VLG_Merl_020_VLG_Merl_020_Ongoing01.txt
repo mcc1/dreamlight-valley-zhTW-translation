@@ -1,0 +1,2 @@
+"Merlin_000_f", "<ActivityItem>夢之碎片</ActivityItem>！這是一種很強大的材料，可以用來製作各種魔法物品。"
+"Merlin_001_f", "你可以在暗夜荊棘中找到它們。"

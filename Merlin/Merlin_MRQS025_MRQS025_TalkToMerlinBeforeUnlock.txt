@@ -1,0 +1,2 @@
+"Merlin_000_f", "你在培養友誼方面取得了巨大的成就，{PlayerName}。村莊因此變得更加美好。"
+"Merlin_003_f", "好吧，快來！沒時間磨蹭了。我們必須回柱子那，找回<ActivityItem>寶珠</ActivityItem>，解除對草地的詛咒。"

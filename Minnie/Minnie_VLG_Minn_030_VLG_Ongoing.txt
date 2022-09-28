@@ -1,0 +1,2 @@
+"Minnie_000_f", "<ActivityItem>鄉村鐘樓</ActivityItem>是用<ActivityItem>石頭</ActivityItem>、<ActivityItem>硬木</ActivityItem>和<ActivityItem>黏土</ActivityItem>建造的。"
+"Minnie_001_f", "鐘的指針是用鐵做的。"

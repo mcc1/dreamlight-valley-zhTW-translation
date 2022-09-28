@@ -1,0 +1,2 @@
+"Merlin_001_f", "是這樣的，我有別的辦法給你的灑水壺附魔。"
+"Merlin_000_f", "我需要你收集這些材料：<ActivityItem>蘑菇</ActivityItem>、<ActivityItem>綠寶石</ActivityItem>和<ActivityItem>純凈夜之碎片</ActivityItem>。"

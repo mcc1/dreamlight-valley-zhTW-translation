@@ -1,0 +1,7 @@
+"DreamCastle_DisplayName", "夢幻城堡"
+"ElephantGraveyard_DisplayName", "大象墓地"
+"ElsaIceCavern_DisplayName", "艾莎的冰窟"
+"RiverSnowCave_DisplayName", "河旁冰雪洞窟"
+"RootArch_DisplayName", "樹根拱門"
+"SwampWillowTree_DisplayName", "大柳樹"
+"WoodenBridgeForest_DisplayName", "森林木橋"

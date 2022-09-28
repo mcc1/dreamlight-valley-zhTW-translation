@@ -1,0 +1,6 @@
+"Merlin_000_f", "你去過遺忘之地了嗎？哦，我在說什麼，你當然沒去過。通往那裡的道路被暗夜荊棘給封鎖了。你需要先清理出道路才行。"
+"Player_000_choice_000_f", "我們去遺忘之地吧。(使用{UpgradePrice} <sprite="iconCurrencyDreamlight" index=0>)"
+"Player_000_choice_001_f", "下次再說吧。"
+"Merlin_001_f", "太棒了，{PlayerName}！前往遺忘之地的路已經打通了！"
+"Merlin_004_f", "看來你的魔法還不夠強大，無法抵達遺忘之地。你需要收集更多夢幻星光。"
+"Merlin_002_f", "好吧，不過記住：只有你才能開啟被封鎖的村莊區域。"

@@ -1,0 +1,2 @@
+"MotherGothel_000_f", "你記性真差……快去神秘洞穴底部……"
+"MotherGothel_001_f", "找到太陽基座，把<ActivityItem>陽光火炬</ActivityItem>放上去。一定會發生什麼事，你得把所發生之事的證據帶給我。"

@@ -1,0 +1,1 @@
+"Minnie_000_f", "你收集了所有東西！現在只剩製作<ActivityItem>鄉村鐘樓</ActivityItem>，再找個地方放好了。"

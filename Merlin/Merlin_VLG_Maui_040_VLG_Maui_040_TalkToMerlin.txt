@@ -1,0 +1,6 @@
+"Merlin_000_f", "<ActivityItem>夢幻星谷之心</ActivityItem>？真是個好主意！你知道嗎，它是顆守護寶石。"
+"Merlin_001_f", "但這該死的東西在谷主消失時就壞掉了……"
+"Merlin_002_f", "我知道你能修復它。當然，你需要幾件物品。"
+"Merlin_005_f", "先去找些<ActivityItem>純凈夜之碎片</ActivityItem>來。將夢幻星光跟黑暗魔法結合起來就能恢復那顆心。"
+"Merlin_004_f", "還要收集些遺忘之地和霜寒高地的水來平衡和穩定魔法。"
+"Merlin_003_f", "將所有材料跟<ActivityItem>碎片</ActivityItem>混合起來，你就可以修好<ActivityItem>夢幻星谷之心</ActivityItem>。"

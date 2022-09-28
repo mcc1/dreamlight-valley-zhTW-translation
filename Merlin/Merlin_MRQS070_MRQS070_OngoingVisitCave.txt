@@ -1,0 +1,2 @@
+"Merlin_000_f", "嗯……烏蘇拉沒有撒謊……她的<ActivityItem>水晶鑰匙</ActivityItem>真的能打開通道。"
+"Merlin_001_f", "好，現在該你去探索洞穴深處，取回<ActivityItem>力量寶珠</ActivityItem>了。"

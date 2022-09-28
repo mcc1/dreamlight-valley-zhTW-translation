@@ -1,0 +1,2 @@
+"WallE_000_f", "瓦力？"
+"WallE_001_f", "我還需要製作一些<ActivityItem>鑄補零件</ActivityItem>來修理這臺機器。"

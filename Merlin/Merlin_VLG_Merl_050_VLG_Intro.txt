@@ -1,0 +1,8 @@
+"Merlin_001_f", "{PlayerName}！我正想你呢，你就出現了。"
+"Player_001_choice_000_f", "你為什麼會想到我？"
+"Player_001_choice_002_f", "讓你看看我的消失魔法。"
+"Merlin_004_f", "我給你的灑水壺施了魔法，讓你清理蘑菇，你還記得嗎？"
+"Merlin_002_f", "我找到了讓魔法永久存在的方法。"
+"Merlin_003_f", "和我們發現的<ActivityItem>純凈夜之碎片</ActivityItem>有關。"
+"Merlin_005_f", "當你收集到這幾樣材料之後，我會告訴你。我們需要<ActivityItem>蘑菇</ActivityItem>、<ActivityItem>綠寶石</ActivityItem>和<ActivityItem>純凈夜之碎片</ActivityItem>。"
+"Merlin_006_f", "抓緊時間！我瞭解了很多和<ActivityItem>純凈夜之碎片</ActivityItem>有關的東西！"

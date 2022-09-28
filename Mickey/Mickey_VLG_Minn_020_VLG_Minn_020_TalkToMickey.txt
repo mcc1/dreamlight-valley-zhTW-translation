@@ -1,0 +1,7 @@
+"Mickey_000_f", "米奇！我們找到了一根漂浮的閃光魚竿。"
+"Mickey_004_f", "漂浮還閃光，啊？米妮消失時看起來也這樣。"
+"Mickey_003_f", "天啊！我能做什麼呢？"
+"Player_000_choice_000_f", "我們能借一下<ActivityItem>夢幻星光放大器</ActivityItem>嗎？"
+"Player_000_choice_001_f", "你覺得這些東西掉在了「無所不在」？"
+"Mickey_001_f", "當然！來，拿去！"
+"Mickey_002_f", "也許吧。你應該帶著<ActivityItem>夢幻星光放大器</ActivityItem>，看看是否有幫助。"

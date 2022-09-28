@@ -1,0 +1,1 @@
+"Remy_000_f", "學習我給你的食譜，用它來製作<ActivityItem>香草冰淇淋</ActivityItem>。"

@@ -1,0 +1,6 @@
+"Merlin_015_f", "只有你可以使用夢幻星光開啟這扇門。這扇門後，是一個小小廚師的廚房！"
+"Player_004_choice_000_f", "我們來開啟這扇門吧。(使用{UpgradePrice} <sprite="iconCurrencyDreamlight" index=0>)"
+"Player_004_choice_001_f", "下次再說吧。"
+"Merlin_013_f", "Magnifique!嘿嘿，這是法語，意思是「太棒了」。可以前往料理鼠王的世界實在是太棒了！"
+"Merlin_016_f", "恐怕你的魔法還不夠強大。你需要收集更多夢幻星光。"
+"Merlin_014_f", "好吧，好吧。不過記住：只有你有能力開啟這些門。"

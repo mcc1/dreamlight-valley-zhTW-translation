@@ -1,0 +1,2 @@
+"MotherGothel_000_f", "要恢復<ActivityItem>黎明碎片</ActivityItem>，必須使用和早晨一樣清新的材料來凈化它。"
+"MotherGothel_001_f", "收集<ActivityItem>檸檬</ActivityItem>、<ActivityItem>奧勒岡</ActivityItem>、<ActivityItem>薄荷</ActivityItem>和<ActivityItem>海水</ActivityItem>。"

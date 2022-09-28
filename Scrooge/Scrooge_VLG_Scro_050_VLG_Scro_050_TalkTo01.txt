@@ -1,0 +1,6 @@
+"Scrooge_000_f", "天啊！怎麼回事？"
+"Scrooge_001_f", "你對我的金幣做了什麼，{PlayerName}？"
+"Scrooge_002_f", "金幣變成了<ActivityItem>記憶</ActivityItem>。"
+"Scrooge_004_f", "呀，如果它們全都變成記憶，那我可虧大了！"
+"Scrooge_003_f", "不過先別擔心這個問題了。如果是<ActivityItem>記憶</ActivityItem>的話，那就跟照它顯示的做好了！"
+"Scrooge_005_f", "找到它所指的地方，你就能找到寶藏！"

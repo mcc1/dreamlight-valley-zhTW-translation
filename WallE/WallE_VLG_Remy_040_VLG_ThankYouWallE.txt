@@ -1,0 +1,4 @@
+"WallE_000_f", "你好，瓦力！你能幫我把這些<ActivityItem>碎片</ActivityItem>碾成粉末嗎？"
+"WallE_001_f", "*低語*……嗒噠！"
+"WallE_002_f", "謝謝你，瓦力！"
+"WallE_003_f", "唔嘀！"

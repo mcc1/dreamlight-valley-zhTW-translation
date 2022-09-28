@@ -1,0 +1,1 @@
+"Goofy_000_f", "{PlayerName}，好像還少了一樣食材。"

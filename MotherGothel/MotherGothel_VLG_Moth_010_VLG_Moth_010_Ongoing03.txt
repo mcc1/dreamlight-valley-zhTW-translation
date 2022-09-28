@@ -1,0 +1,3 @@
+"MotherGothel_000_f", "史高治想讓你幫他做點東西？"
+"MotherGothel_001_f", "好啦，別光傻站著！去做你該做的事！"
+"MotherGothel_002_f", "親愛的，別問我。你才是那個想要做——什麼來著——「<ActivityItem>麥克莓樹</ActivityItem>」的人。"

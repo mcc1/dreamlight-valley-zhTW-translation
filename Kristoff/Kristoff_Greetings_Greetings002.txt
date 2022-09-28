@@ -1,0 +1,2 @@
+"Kristoff_000_f", "有什麼需要幫忙的嗎，{PlayerName}？"
+"Player_000_exit_000_f", "稍後再來找你。"

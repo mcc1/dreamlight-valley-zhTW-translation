@@ -1,0 +1,3 @@
+"Merlin_009_f", "天吶梅林，{PlayerName}真的會成為這個村子的領導者嗎？"
+"Merlin_010_f", "也許吧。{PlayerName}已經展現出一位明智又慷慨的領導者所必備的品質了。"
+"Merlin_011_f", "嗯，如果{PlayerName}需要任何幫助，我都樂意效勞。"

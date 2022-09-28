@@ -1,0 +1,1 @@
+"Goofy_000_f", "看來所有東西都找齊了！現在我們可以去製作臺打造<ActivityItem>修理工具</ActivityItem>。"

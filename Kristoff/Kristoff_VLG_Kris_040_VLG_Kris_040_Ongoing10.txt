@@ -1,0 +1,2 @@
+"Kristoff_000_f", "你能去我家裡找到<ActivityItem>《冰雪一本通：如何修理雪橇》</ActivityItem>這本書嗎？它可能放在書房。"
+"Kristoff_001_f", "它能幫我們修好我的<ActivityItem>雪橇</ActivityItem>。"

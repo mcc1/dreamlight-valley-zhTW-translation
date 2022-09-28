@@ -1,0 +1,2 @@
+"Remy_000_f", "你要做{ItemName}來當甜點。從我個人來說是相當期待。"
+"Remy_005_f", "你要用到三種食材。記住，<ActivityItem>黃油</ActivityItem>是關鍵。"

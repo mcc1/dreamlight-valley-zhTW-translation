@@ -1,0 +1,3 @@
+"Moana_000_f", "我想要的都有了！謝謝你！"
+"Moana_001_f", "有了這些<ActivityItem>椰子</ActivityItem>，我就能想辦法把小豬胖胖引誘出來。"
+"Moana_002_f", "噢！又一片<ActivityItem>領袖碎片</ActivityItem>！"

@@ -1,0 +1,6 @@
+"Village!SwordInStone!Merlin!VLG_Merl_030_Any_CompletedRequestDescription", "跟梅林交談"
+"Village!SwordInStone!Merlin!VLG_Merl_030_CompletedStoryDescription", "巫師肯定想看看你準備了什麼。"
+"Village!SwordInStone!Merlin!VLG_Merl_030_DisplayName", "食踐出真知"
+"Village!SwordInStone!Merlin!VLG_Merl_030_Group01_Step01_BringItem01_StepDescription", "為梅林製作任意2星餐食"
+"Village!SwordInStone!Merlin!VLG_Merl_030_Group01_Step01_ReadyDescription", "把任意2星餐食帶給梅林"
+"Village!SwordInStone!Merlin!VLG_Merl_030_Group01_StoryDescription", "你和梅林討論的時候，發現他並未將人類最基本的食物需求放在心上。你決定幫助他。"

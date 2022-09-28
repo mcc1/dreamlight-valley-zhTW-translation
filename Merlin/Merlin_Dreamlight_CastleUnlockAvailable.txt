@@ -1,0 +1,6 @@
+"Merlin_006_f", "把你的魔法集中在暗夜荊棘上，{PlayerName}。"
+"Player_002_choice_000_f", "移除暗夜荊棘。(使用{UpgradePrice} <sprite="iconCurrencyDreamlight" index=0>)"
+"Player_002_choice_001_f", "我還沒有準備好。"
+"Merlin_007_f", "太棒了！{PlayerName}！太棒了！現在我們終於可以進入夢幻城堡了！"
+"Merlin_010_f", "你的魔法還不夠強大。你需要更多夢幻星光才能進入夢幻城堡。"
+"Merlin_008_f", "你能明白這一點說明你是有智慧的。不過記住：只有你擁有進入夢幻城堡的魔法。準備好了再回來吧。"

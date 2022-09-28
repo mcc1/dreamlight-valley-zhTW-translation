@@ -1,0 +1,4 @@
+"Mickey_000_f", "{PlayerName}！我的寶貝回來了！"
+"Mickey_001_f", "她說是你幫她恢復了記憶。天吶，我要怎麼感謝你才好！"
+"Mickey_002_f", "這是<ActivityItem>夢幻星光放大器</ActivityItem>。保管好，說不定以後還用得上。"
+"Mickey_003_f", "我有預感我們肯定還會用到它。我會好好保管的。"

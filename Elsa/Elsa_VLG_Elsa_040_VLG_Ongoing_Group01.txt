@@ -1,0 +1,4 @@
+"Elsa_001_f", "你能收集這些物品放在基座上嗎？"
+"Elsa_002_f", "我們需要一盤<ActivityItem>阿倫戴爾腌鯡魚</ActivityItem>，作為我帶回村裡的食物。一朵代表冰和雪的<ActivityItem>白色西番蓮</ActivityItem>。"
+"Elsa_003_f", "一根<ActivityItem>胡蘿蔔</ActivityItem>，因為它對我一些親愛的朋友來說很特別，還有一個<ActivityItem>金塊</ActivityItem>，象徵我和安娜與我們的皇家遺產之間的紐帶……"
+"Elsa_004_f", "有了這些，我們的難題就解決了。"

@@ -1,0 +1,2 @@
+"Remy_000_f", "一個{ItemName}。"
+"Remy_001_f", "你需要一個<ActivityItem>燈籠椒</ActivityItem>，一些<ActivityItem>起司</ActivityItem>和一個<ActivityItem>雞蛋</ActivityItem>。"

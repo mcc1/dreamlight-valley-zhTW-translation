@@ -1,0 +1,2 @@
+"Minnie_001_f", "你好，{PlayerName}。很高興見到你！"
+"Player_000_exit_000_f", "抱歉，我現在不方便說話。"

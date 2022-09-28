@@ -1,0 +1,2 @@
+"Moana_000_f", "你能幫我找些<ActivityItem>椰子</ActivityItem>來嗎？我有個主意……"
+"Moana_001_f", "如果村莊裡沒有，我們相遇的那座島上應該有。"

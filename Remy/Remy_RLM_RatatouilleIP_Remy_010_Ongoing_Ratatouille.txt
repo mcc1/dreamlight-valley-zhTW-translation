@@ -1,0 +1,3 @@
+"Remy_000_f", "美食評論家還在等他的<ActivityItem>法式雜菜燴</ActivityItem>。"
+"Remy_001_f", "<ActivityItem>法式雜菜燴</ActivityItem>需要用到<ActivityItem>番茄</ActivityItem>，三種不同的煮熟的蔬菜，以及一種香料！"
+"Remy_004_f", "菜做好之後，就放到門旁的上菜視窗！"

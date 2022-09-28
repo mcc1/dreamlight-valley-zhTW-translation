@@ -1,0 +1,7 @@
+"Player_000_choice_000_f", "買下它只用{Price} <sprite="iconCurrencySoft" index=0>"
+"Player_000_choice_001_f", "我稍後再來……"
+"Scrooge_000_f", "你在看這個{ItemName}，對嗎？有品位的顧客都會中意它。"
+"Scrooge_001_f", "它是你的了。這筆投資很明智哦！"
+"Scrooge_002_f", "好，但別忘了：我的貨物可不是一成不變的。"
+"Scrooge_003_f", "我查了目錄，這個{ItemName}目前價值{Price} {CurrencyName}……"
+"Scrooge_004_f", "根據我的記錄，你沒有足夠的錢來買下它，{PlayerName}。等你有錢了再來吧，我會很樂意接待你的。"

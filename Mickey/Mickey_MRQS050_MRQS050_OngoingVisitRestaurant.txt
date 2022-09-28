@@ -1,0 +1,2 @@
+"Mickey_001_f", "呃，現在我們知道要找的是什麼了……我們只需要去找就對了！"
+"Mickey_000_f", "<ActivityItem>記憶</ActivityItem>應該能幫上忙。"

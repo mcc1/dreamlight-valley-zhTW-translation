@@ -1,0 +1,5 @@
+"Kristoff_001_f", "好吧，我有一個<ActivityItem>貨攤</ActivityItem>，所以我現在是店主了。"
+"Kristoff_004_f", "或者說是「攤主」？我要問問安娜。"
+"Kristoff_000_f", "不管怎麼說，你需要買東西的時候就來貨攤看看吧。"
+"Kristoff_003_f", "我會出售<ActivityItem>軟木材</ActivityItem>、<ActivityItem>石頭</ActivityItem>和<ActivityItem>沙子</ActivityItem>。"
+"Kristoff_002_f", "一開始我並不確定，但我覺得肯定會很棒！謝謝你，{PlayerName}。"

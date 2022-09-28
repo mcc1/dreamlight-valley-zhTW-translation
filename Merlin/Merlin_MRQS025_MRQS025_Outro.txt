@@ -1,0 +1,5 @@
+"Merlin_003_f", "幹得好，{PlayerName}！"
+"Merlin_008_f", "繼續培養你的友愛和好奇心，這會成為你最大的優勢！"
+"Merlin_002_f", "你得盡力得到每一份幫助。"
+"Merlin_001_f", "我擔心夢幻星谷不會真正安全，除非我們能找到所有的<ActivityItem>寶珠</ActivityItem>並把它們送回該去的地方。"
+"Merlin_000_f", "找到它們，讓柱子復原。我們全靠你了，{PlayerName}。"

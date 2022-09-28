@@ -1,0 +1,2 @@
+"Kristoff_000_f", "哇！<ActivityItem>魔法羽毛</ActivityItem>！"
+"Kristoff_001_f", "快，返回黑暗森林，跟著羽毛找到唐老鴨！"

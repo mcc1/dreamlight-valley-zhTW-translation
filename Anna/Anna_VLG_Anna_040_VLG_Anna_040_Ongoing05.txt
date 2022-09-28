@@ -1,0 +1,2 @@
+"Anna_000_f", "我們來堆個<ActivityItem>雪人家族</ActivityItem>吧！"
+"Anna_003_f", "我們需要<ActivityItem>雪</ActivityItem>、<ActivityItem>鵝卵石</ActivityItem>、<ActivityItem>布料</ActivityItem>、<ActivityItem>乾木材</ActivityItem>和一些做鼻子用的<ActivityItem>胡蘿蔔</ActivityItem>！"

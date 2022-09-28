@@ -1,0 +1,6 @@
+"Merlin_003_f", "這裡是一個用笑聲的能量來為一切供能的世界！只有你可以用你的夢幻星光開啟這扇門。"
+"Player_000_choice_000_f", "我們來開啟這扇門吧。(使用{UpgradePrice} <sprite="iconCurrencyDreamlight" index=0>)"
+"Player_000_choice_001_f", "下次再說吧。"
+"Merlin_001_f", "太棒了！你解鎖了怪獸電力公司王國！"
+"Merlin_004_f", "你的魔法還不夠強大。你需要收集更多夢幻星光……"
+"Merlin_002_f", "記住：只有你才能打開這些門。"

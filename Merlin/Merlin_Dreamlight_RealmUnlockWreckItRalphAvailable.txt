@@ -1,0 +1,6 @@
+"Merlin_003_f", "在那裡你可以學到如何成為「網紅」。只有你可以用你的夢幻星光打開這扇門。"
+"Player_000_choice_000_f", "我們來開啟這扇門吧。(使用{UpgradePrice} <sprite="iconCurrencyDreamlight" index=0>)"
+"Player_000_choice_001_f", "下次再說吧。"
+"Merlin_001_f", "太棒了！你解鎖了無敵破壞王王國！"
+"Merlin_004_f", "你的魔法還不夠強大。你需要收集更多夢幻星光……"
+"Merlin_002_f", "記住：只有你才能打開這些門。"

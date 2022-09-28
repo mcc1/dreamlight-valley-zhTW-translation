@@ -1,0 +1,5 @@
+"Scrooge_000_f", "PLACEHOLDER. NO WELL UPGRADES."
+"Player_000_choice_000_f", "好的。"
+"Scrooge_002_f", "好的，高飛會過來取走它的。"
+"Scrooge_003_f", "好的，要是你想過會兒再解鎖，你知道在哪兒找我。"
+"Scrooge_005_f", "不。"

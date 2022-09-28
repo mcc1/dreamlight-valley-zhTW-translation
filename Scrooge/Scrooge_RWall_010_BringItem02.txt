@@ -1,0 +1,5 @@
+"Scrooge_003_f", "你拿到<ActivityItem>石榴石</ActivityItem>了？啊！我看到它們在你手裡發光了。"
+"Scrooge_000_f", "哦，它們太漂亮了！"
+"Scrooge_002_f", "吶，給你，這是你的<ActivityItem>滅火器</ActivityItem>！"
+"Scrooge_001_f", "如果你正在尋找更多物品來增加你朋友的收藏……"
+"Scrooge_004_f", "……但這裡沒有你想要的東西，你可以去找米奇和高飛談談。"

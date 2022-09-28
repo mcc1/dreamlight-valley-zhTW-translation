@@ -1,0 +1,4 @@
+"Elsa_001_f", "那聲音現在變成了低語……"
+"Elsa_000_f", "這裡有許多秘密：奇怪的聲音，牆上的謎題，那些基座，還有這個古怪的<ActivityItem>冰凍寶箱</ActivityItem>……"
+"Elsa_007_f", "我有種感覺，要是想完全弄明白，我們就得找到更多那種<ActivityItem>紋章</ActivityItem>。"
+"Elsa_006_f", "謝謝你幫忙，{PlayerName}。我們會一起找到答案的。"

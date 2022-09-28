@@ -1,0 +1,1 @@
+"PrinceEric_000_f", "我真的要吃點東西了。你剛剛是不是在說<ActivityItem>西班牙冷湯</ActivityItem>、<ActivityItem>燜蔬菜</ActivityItem>和新鮮的<ActivityItem>漿果沙拉</ActivityItem>。"

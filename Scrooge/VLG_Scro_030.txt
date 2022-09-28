@@ -1,0 +1,3 @@
+"Village!Mickey!Scrooge!VLG_Scro_030_CompletedStoryDescription", "分析線索之後，你準備去幫史高治了。"
+"Village!Mickey!Scrooge!VLG_Scro_030_DisplayName", "被遺忘的密碼"
+"Village!Mickey!Scrooge!VLG_Scro_030_Group01_StoryDescription", "他忘記了保險箱的密碼，意外的是他對你表示信任，要求你幫他找到密碼。"

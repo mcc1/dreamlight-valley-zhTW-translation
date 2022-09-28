@@ -1,0 +1,4 @@
+"Description", "{Placeholder}Garden 20 Items per area."
+"Description_000", "{Placeholder}Item that come from certain area."
+"Name", "{Placeholder}Gardening Mini Event"
+"Name_000", "{Placeholder}Garden 20 seed from Meadow"

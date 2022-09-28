@@ -1,0 +1,4 @@
+"MotherGothel_001_f", "*唉* 我一定要一直重複嗎？這次要聽仔細了……"
+"MotherGothel_000_f", "每塊碎片都會在特定的時間和地點出現。<ActivityItem>黎明碎片</ActivityItem>在清晨的日照高原上……"
+"MotherGothel_002_f", "<ActivityItem>正午碎片</ActivityItem>在正午時分的林地裡，還有<ActivityItem>黃昏碎片</ActivityItem>在夜晚的森林裡。"
+"MotherGothel_003_f", "它們在地面上會像小太陽一樣發光，所以應該很容易找到。找齊之後就帶回我這兒來吧。"

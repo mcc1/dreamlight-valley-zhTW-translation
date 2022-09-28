@@ -1,0 +1,8 @@
+"Village!Mickey!VLG_Dona_010_Any_CompletedRequestDescription", "跟唐老鴨聊聊時間膠囊"
+"Village!Mickey!VLG_Dona_010_AvailableDescription", "唐老鴨似乎非常生氣。原來，當他離開夢幻星谷的時候，他的房子被毀了。"
+"Village!Mickey!VLG_Dona_010_Group02_OngoingRequestButton", "我們要怎麼做？"
+"Village!Mickey!VLG_Dona_010_Group03_OngoingRequestButton", "現在怎麼辦？"
+"Village!Mickey!VLG_Dona_010_Group03_Step03_CraftItem01_StepDescription", "在製作臺製作{ItemName}"
+"Village!Mickey!VLG_Dona_010_Group08_OngoingRequestButton", "現在怎麼辦？"
+"Village!Mickey!VLG_Dona_010_Group08_Step08_Unlock01_StepDescription", "開啟物品欄中的<ActivityItem>生鏽的時間膠囊</ActivityItem>"
+"Village!Mickey!VLG_Dona_010_StartRequestButton", "<smallcaps>{title}</smallcaps><br>開始任務"

@@ -1,0 +1,6 @@
+"Goofy_002_f", "我們拍了一些很棒的照片，但我感覺缺了什麼東西……"
+"Goofy_000_f", "我知道！我們拍了植物，但還沒有花的照片！"
+"Goofy_001_f", "要是沒有夢幻星谷中那些美麗的鮮花，我們會很遺憾的。"
+"Goofy_003_f", "廣場附近有<ActivityItem>蒲公英</ActivityItem>和<ActivityItem>低垂釣鐘柳</ActivityItem>……"
+"Goofy_004_f", "……草地上有<ActivityItem>雛菊</ActivityItem>和<ActivityItem>直立釣鐘柳</ActivityItem>！"
+"Goofy_005_f", "很多地方都有釣鐘柳！你應該能為它們拍出好看的照片。"

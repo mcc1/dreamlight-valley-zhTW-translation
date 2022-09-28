@@ -1,0 +1,1 @@
+"Goofy_000_f", "很好，我們現在可以修理<ActivityItem>木筏</ActivityItem>了！{PlayerName}，帶我去炫麗海灘吧。"

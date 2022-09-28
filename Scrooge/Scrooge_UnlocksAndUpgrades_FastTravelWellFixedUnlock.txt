@@ -1,0 +1,6 @@
+"Scrooge_009_f", "修好這口井後，你就能從星谷的任何地方快速回到這裡。對我來說似乎是筆不錯的買賣。"
+"Player_000_choice_000_f", "我們把井修好吧。(使用{UpgradePrice}<sprite="iconCurrencySoft" index=0>)"
+"Player_000_choice_001_f", "我下次再來吧。"
+"Scrooge_001_f", "井修好了！幹得漂亮，{PlayerName}。"
+"Scrooge_004_f", "哎呀！你的星幣不夠修好這口井！等你攢夠錢再來吧，{PlayerName}。"
+"Scrooge_002_f", "你知道，這口井可不會把自己修好。當你真心想在星谷投資時再來找我吧！"

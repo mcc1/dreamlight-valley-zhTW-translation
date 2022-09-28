@@ -1,0 +1,2 @@
+"Kristoff_000_f", "唐老鴨找到了<ActivityItem>勇氣寶珠</ActivityItem>？我就知道小傢伙有這本事！"
+"Kristoff_001_f", "有了你的魔法和那個<ActivityItem>寶珠</ActivityItem>，你應該能修好勇氣之柱，然後把唐老鴨帶回星谷！"

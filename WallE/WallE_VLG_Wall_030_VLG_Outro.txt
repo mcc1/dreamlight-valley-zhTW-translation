@@ -1,0 +1,7 @@
+"WallE_000_f", "我在垃圾裡找到了奇怪的東西。看這個機器。"
+"WallE_002_f", "噢噢！"
+"WallE_004_f", "上面有行字，寫著「<ActivityItem>F02937 M3 N07</ActivityItem>」。"
+"WallE_003_f", "旁邊還有一朵藍色的花。"
+"WallE_005_f", "嗯……"
+"WallE_001_f", "你想收藏它嗎？"
+"WallE_006_f", "哦！"

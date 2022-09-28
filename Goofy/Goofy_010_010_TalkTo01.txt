@@ -1,0 +1,1 @@
+"Goofy_000_f", "你在海灘上發現了一堆<ActivityItem>木筏殘骸</ActivityItem>？啊，你想讓我幫忙修好它嗎，{PlayerName}？我覺得一定會很好玩！"

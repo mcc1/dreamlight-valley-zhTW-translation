@@ -1,0 +1,1 @@
+"Kristoff_000_f", "我們需要<ActivityItem>碳灰</ActivityItem>才能製作<ActivityItem>堿液</ActivityItem>。你可以從森林的營地中獲得，就在霜寒高地的入口附近。"

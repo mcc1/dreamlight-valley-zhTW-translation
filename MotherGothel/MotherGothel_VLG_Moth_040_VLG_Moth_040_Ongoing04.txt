@@ -1,0 +1,1 @@
+"MotherGothel_000_f", "找個製作臺組合<ActivityItem>碎片</ActivityItem>和<ActivityItem>太陽隕石</ActivityItem>。"

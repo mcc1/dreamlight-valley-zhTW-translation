@@ -1,0 +1,1 @@
+"Scrooge_000_f", "找到<ActivityItem>記憶</ActivityItem>所指的地方，你就能找到寶藏！"

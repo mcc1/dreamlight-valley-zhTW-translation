@@ -1,0 +1,8 @@
+"Kristoff_006_f", "哇哦，{PlayerName}，真是太神奇了！它們讓我的<ActivityItem>貨攤</ActivityItem>琳瑯滿目。"
+"Kristoff_000_f", "你知道，在那之後，安娜幫我算了一筆賬，我在貨攤賺的錢足以讓我買一架新的雪橇。不用分期付款。"
+"Kristoff_007_f", "所以，我想把我的舊<ActivityItem>雪橇</ActivityItem>送給你，就當是你修好它的謝禮，同時也感謝你一直以來所做的一切。"
+"Kristoff_004_f", "你真的太厲害了，{PlayerName}。"
+"Kristoff_003_f", "你拯救了我的<ActivityItem>雪橇</ActivityItem>，還讓我做起了新的生意。"
+"Kristoff_001_f", "現在我可以在我的<ActivityItem>貨攤</ActivityItem>賣精良材料了。謝謝你的幫助。"
+"Kristoff_005_f", "哦，我會給你打折的。"
+"Kristoff_002_f", "如果有什麼我能報答你的，儘管告訴我。"

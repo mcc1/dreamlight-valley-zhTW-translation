@@ -1,0 +1,8 @@
+"Story!ORQS_Scro_010_Meadow_Any_CompletedRequestDescription", "與史高治交談"
+"Story!ORQS_Scro_010_Meadow_AvailableDescription", "寧靜草地的柱子已修復，該裝飾一下這個地方了。"
+"Story!ORQS_Scro_010_Meadow_CompletedStoryDescription", "你讓寧靜草地變得更加美麗了。"
+"Story!ORQS_Scro_010_Meadow_DisplayName", "重建星谷：寧靜草地"
+"Story!ORQS_Scro_010_Meadow_Group01_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>我要做什麼？"
+"Story!ORQS_Scro_010_Meadow_Group01_Step01_Decorate01_StepDescription", "放置{TargetAmount}件家具"
+"Story!ORQS_Scro_010_Meadow_Group01_Step01_StepDescription", "裝飾寧靜草地"
+"Story!ORQS_Scro_010_Meadow_StartRequestButton", "<smallcaps>{title}</smallcaps><br>開始任務"

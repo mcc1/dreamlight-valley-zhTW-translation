@@ -1,0 +1,1 @@
+"Moana_000_f", "我非常願意，{PlayerName}！謝謝你！"

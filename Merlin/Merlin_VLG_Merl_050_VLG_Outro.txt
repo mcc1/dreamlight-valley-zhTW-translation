@@ -1,0 +1,5 @@
+"Merlin_002_f", "魔法生效了！太棒了！"
+"Merlin_000_f", "我們知道了兩件重要的事情……"
+"Merlin_001_f", "<ActivityItem>純凈夜之碎片</ActivityItem>是很強大的工具……"
+"Merlin_003_f", "……以及清理這些礙事的蘑菇的辦法。"
+"Merlin_004_f", "真是一舉兩得！"

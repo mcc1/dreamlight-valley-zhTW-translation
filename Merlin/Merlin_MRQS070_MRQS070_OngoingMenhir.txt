@@ -1,0 +1,1 @@
+"Merlin_001_f", "好了，現在你需要將<ActivityItem>力量寶珠</ActivityItem>放回到柱子上的正確位置。"

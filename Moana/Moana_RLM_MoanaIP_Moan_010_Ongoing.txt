@@ -1,0 +1,2 @@
+"Moana_007_f", "我必須確保我的獨木舟做好了遠航的準備。"
+"Moana_000_f", "好！我去找一些<ActivityItem>木頭</ActivityItem>和<ActivityItem>絲線</ActivityItem>！"

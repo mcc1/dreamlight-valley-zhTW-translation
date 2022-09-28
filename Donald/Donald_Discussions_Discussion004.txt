@@ -1,0 +1,8 @@
+"Donald_000_f", "嗨呀，{PlayerName}！說說看，你認為誰是最棒的表演者？"
+"Donald_001_f", "米奇還是我？"
+"Player_000_choice_000_f", "米奇。"
+"Player_000_choice_001_f", "你。"
+"Player_000_choice_002_f", "當然是我。"
+"Donald_002_f", "哼！大家都只知道選米奇。"
+"Donald_003_f", "哦，天吶！天吶！謝謝你，{ PlayerName }！"
+"Donald_004_f", "哼！還真沒想到。"

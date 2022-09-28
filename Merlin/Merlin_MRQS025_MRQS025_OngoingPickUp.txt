@@ -1,0 +1,2 @@
+"Merlin_000_f", "只有你能從星谷移除暗夜荊棘，所以也只有你能從糾纏的倒刺中釋放<ActivityItem>友誼寶珠</ActivityItem>。"
+"Merlin_001_f", "去吧，集中注意力，努力把<ActivityItem>寶珠</ActivityItem>拿回來。"

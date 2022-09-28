@@ -1,0 +1,1 @@
+"MotherGothel_000_f", "你拿到<ActivityItem>黎明石</ActivityItem>了嗎？把它給我！"

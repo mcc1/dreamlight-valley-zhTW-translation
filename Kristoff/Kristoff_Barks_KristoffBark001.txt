@@ -1,0 +1,1 @@
+"Kristoff_000_f", "你好，{PlayerName}！"

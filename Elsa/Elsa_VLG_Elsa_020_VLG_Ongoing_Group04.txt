@@ -1,0 +1,3 @@
+"Elsa_001_f", "製作<ActivityItem>魚肉派</ActivityItem>的下一步是要釣一條<ActivityItem>發光的鯡魚</ActivityItem>。"
+"Elsa_000_f", "這種魚只會在雨天的時候出現在信仰林地。"
+"Elsa_002_f", "另外，我們還需要<ActivityItem>小麥</ActivityItem>和<ActivityItem>黃油</ActivityItem>。"

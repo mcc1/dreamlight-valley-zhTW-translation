@@ -1,0 +1,2 @@
+"WallE_000_f", "瓦力？"
+"WallE_001_f", "就快完成了！我只需要把所有東西組裝起來就可以修好<ActivityItem>F02937 M3 N07</ActivityItem>了。"

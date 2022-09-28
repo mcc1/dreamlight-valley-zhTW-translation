@@ -1,0 +1,1 @@
+"Goofy_000_f", "食材都齊了，我們可以做<ActivityItem>法式海鮮湯</ActivityItem>了！"

@@ -1,0 +1,1 @@
+"Donald_000_f", "哇！聽起來不錯，{PlayerName}！"

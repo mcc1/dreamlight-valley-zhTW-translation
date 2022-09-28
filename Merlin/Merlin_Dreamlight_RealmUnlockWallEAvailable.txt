@@ -1,0 +1,6 @@
+"Merlin_019_f", "用你的夢幻星光開啟這扇門，門後有一位的小機器人，它話不多，卻非常可愛。"
+"Player_000_choice_000_f", "我們來開啟這扇門吧。(使用{UpgradePrice} <sprite="iconCurrencyDreamlight" index=0>)"
+"Player_000_choice_001_f", "下次再說吧。"
+"Merlin_001_f", "你太厲害了！你現在可以去拜訪那個叫做瓦力的聰明小傢伙了。"
+"Merlin_004_f", "恐怕你的魔法還不夠強大。你需要收集更多夢幻星光。"
+"Merlin_002_f", "好吧，好吧。不過記住：只有你有能力開啟這些門。"

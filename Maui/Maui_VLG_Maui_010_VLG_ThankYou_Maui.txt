@@ -1,0 +1,5 @@
+"Maui_000_f", "{PlayerName}，你來啦！我一直在和大夥聊我的豐功偉績。"
+"Maui_001_f", "順便再講講護髮秘訣……哦！你抓到鰻魚了！"
+"Maui_002_f", "太好了！現在我們只需把它種到沙灘上！"
+"Maui_003_f", "哦，別忘了澆水。很快就會有一棵你親手種出的<ActivityItem>椰子</ActivityItem>樹了。"
+"Maui_004_f", "我會好好享用這個<ActivityItem>椰子</ActivityItem>！一定要給我帶一個。"

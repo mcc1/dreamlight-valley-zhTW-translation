@@ -1,0 +1,8 @@
+"Story!ORQS_Scro_030_Forest_Any_CompletedRequestDescription", "與史高治交談"
+"Story!ORQS_Scro_030_Forest_AvailableDescription", "勇氣森林的柱子已修復，該裝飾一下這個地方了。"
+"Story!ORQS_Scro_030_Forest_CompletedStoryDescription", "你把勇氣森林變成了徒步的好去處。"
+"Story!ORQS_Scro_030_Forest_DisplayName", "重建星谷：勇氣森林"
+"Story!ORQS_Scro_030_Forest_Group01_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>我要做什麼？"
+"Story!ORQS_Scro_030_Forest_Group01_Step01_Decorate01_StepDescription", "放置{TargetAmount}件家具"
+"Story!ORQS_Scro_030_Forest_Group01_Step01_StepDescription", "裝飾勇氣森林"
+"Story!ORQS_Scro_030_Forest_StartRequestButton", "<smallcaps>{title}</smallcaps><br>開始任務"

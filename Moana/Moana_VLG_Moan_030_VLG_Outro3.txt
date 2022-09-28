@@ -1,0 +1,3 @@
+"Moana_000_f", "我來想個辦法把小豬胖胖引誘出來。"
+"Moana_002_f", "謝謝你，{PlayerName}。我會好好保管這個<ActivityItem>碎片</ActivityItem>和另一個碎片。"
+"Moana_001_f", "我們不會被「大遺忘」擊敗！"

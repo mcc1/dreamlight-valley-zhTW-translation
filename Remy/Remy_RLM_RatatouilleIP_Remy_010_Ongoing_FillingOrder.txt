@@ -1,0 +1,2 @@
+"Remy_003_f", "然後，等<ActivityItem>田園沙拉</ActivityItem>做好之後，就放到門旁的上菜視窗，再送到客人桌上。"
+"Remy_001_f", "我們的<ActivityItem>田園沙拉</ActivityItem>是用<ActivityItem>生菜</ActivityItem>、<ActivityItem>番茄</ActivityItem>、<ActivityItem>玉米</ActivityItem>、<ActivityItem>燈籠椒</ActivityItem>和<ActivityItem>洋蔥</ActivityItem>做的。"

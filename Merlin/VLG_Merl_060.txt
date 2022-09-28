@@ -1,0 +1,3 @@
+"Village!SwordInStone!Merlin!VLG_Merl_060_AvailableDescription", "梅林有些沮喪，你需要找到原因。"
+"Village!SwordInStone!Merlin!VLG_Merl_060_Group01_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>我要做什麼？"
+"Village!SwordInStone!Merlin!VLG_Merl_060_StartRequestButton", "<smallcaps>{title}</smallcaps><br>開始任務"

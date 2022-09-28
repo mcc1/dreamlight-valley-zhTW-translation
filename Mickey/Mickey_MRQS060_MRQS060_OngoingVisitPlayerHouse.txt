@@ -1,0 +1,2 @@
+"Mickey_000_f", "我們需要一些<ActivityItem>蘋果</ActivityItem>和<ActivityItem>小麥</ActivityItem>來做一份<ActivityItem>水果沙拉</ActivityItem>和一些<ActivityItem>薄脆餅乾</ActivityItem>。"
+"Mickey_001_f", "準備好之後我們就去你的小屋製作吧！"

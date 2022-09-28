@@ -1,0 +1,2 @@
+"Minnie_000_f", "用我給你的花瓶做插花。"
+"Minnie_002_f", "我們可以用採來的<ActivityItem>繡球花</ActivityItem>、<ActivityItem>風鈴草</ActivityItem>和<ActivityItem>星星百合</ActivityItem>插滿它！"

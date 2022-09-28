@@ -1,0 +1,4 @@
+"MotherGothel_000_f", "你回來了！還帶回了線索！"
+"MotherGothel_007_f", "來，讓我看看……"
+"MotherGothel_008_f", "啊，這些可不是簡單看一眼就能破解的。"
+"MotherGothel_005_f", "走吧，等我的研究完成，需要干體力活的時候再叫你。"

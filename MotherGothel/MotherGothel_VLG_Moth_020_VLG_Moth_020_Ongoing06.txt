@@ -1,0 +1,4 @@
+"MotherGothel_000_f", "親愛的，這麼快就忘記了嗎？記性真是差呀。再說一次……要製作<ActivityItem>陽光火炬</ActivityItem>，你需要……"
+"MotherGothel_001_f", "<ActivityItem>軟木材</ActivityItem>、<ActivityItem>纖維</ActivityItem>和三顆寶石。"
+"MotherGothel_002_f", "一顆<ActivityItem>黃水晶</ActivityItem>，一顆<ActivityItem>石榴石</ActivityItem>，還有一顆<ActivityItem>海藍寶石</ActivityItem>。"
+"MotherGothel_003_f", "我已經給了你<ActivityItem>魔法汁液</ActivityItem>。"

@@ -1,0 +1,1 @@
+"Moana_000_f", "你需要一些<ActivityItem>軟木</ActivityItem>來製作<ActivityItem>船槳</ActivityItem>。"

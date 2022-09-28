@@ -1,0 +1,6 @@
+"Merlin_001_f", "記住：你需要的全部說明都在書裡。"
+"Player_000_choice_000_f", "對於<ActivityItem>流水</ActivityItem>，你有什麼想法？"
+"Player_000_choice_001_f", "我不知道在哪裡可以找到<ActivityItem>冰心</ActivityItem>。"
+"Merlin_000_f", "試著從它的名字尋找線索。"
+"Merlin_002_f", "和我在書裡找到的種子有關。"
+"Merlin_003_f", "這些種子有什麼用？"

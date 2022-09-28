@@ -1,0 +1,5 @@
+"Goofy_000_f", "{PlayerName}，謝謝你！和你一起抓海鮮做菜很開心。"
+"Goofy_002_f", "天啊，米奇一定會喜歡這道<ActivityItem>法式海鮮湯</ActivityItem>！"
+"Goofy_001_f", "我要告訴你一個做飯的秘密，你知道為什麼我想做<ActivityItem>法式海鮮湯</ActivityItem>嗎？"
+"Goofy_003_f", "一道菜的名字念起來越有趣，那做起來就會更有趣！"
+"Goofy_004_f", "<ActivityItem>法式海鮮湯</ActivityItem>！啊哈！"

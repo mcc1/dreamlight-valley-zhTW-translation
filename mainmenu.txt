@@ -1,0 +1,7 @@
+"acclink_savefile_reset_progress", "重置進度"
+"acclink_tab_linkwithemail", "關聯帳號"
+"acclink_tab_savefiles", "儲存檔案"
+"reset_progress_confirm_desc", "你確定要重置進度嗎？"
+"reset_progress_confirm_title", "重置進度確認"
+"reset_settings_confirm_desc", "你確定要將設定選項重置為預設數值嗎？"
+"reset_settings_confirm_title", "重置為預設設定"

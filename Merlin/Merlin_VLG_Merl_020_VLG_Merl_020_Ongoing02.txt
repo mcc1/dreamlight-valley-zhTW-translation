@@ -1,0 +1,2 @@
+"Merlin_000_f", "使用你的製作臺轉化<ActivityItem>夢之碎片</ActivityItem>！"
+"Merlin_001_f", "我很想看看你創造了什麼。"

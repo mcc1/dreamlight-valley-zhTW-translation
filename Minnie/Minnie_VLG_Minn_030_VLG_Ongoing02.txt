@@ -1,0 +1,1 @@
+"Minnie_000_f", "好啦，建造<ActivityItem>鄉村鐘樓</ActivityItem>需要的所有材料你都有了！"

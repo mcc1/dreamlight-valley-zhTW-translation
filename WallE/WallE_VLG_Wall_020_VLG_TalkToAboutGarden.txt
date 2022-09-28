@@ -1,0 +1,6 @@
+"WallE_000_f", "噠噠！地面。"
+"WallE_001_f", "你想把這破舊的土堆打造成花園？"
+"WallE_002_f", "指令！"
+"WallE_003_f", "可以的！不過我們得先收集好多東西。"
+"WallE_004_f", "我們要找到<ActivityItem>種子</ActivityItem>，<ActivityItem>土堆</ActivityItem>和一個<ActivityItem>籬架</ActivityItem>。"
+"WallE_005_f", "好！"

@@ -1,0 +1,1 @@
+"Goofy_000_f", "對<ActivityItem>木筏</ActivityItem>損壞處使用<ActivityItem>修理工具</ActivityItem>就行了！"

@@ -1,0 +1,2 @@
+"Elsa_001_f", "你說製作<ActivityItem>風鈴</ActivityItem>需要……"
+"Elsa_000_f", "<ActivityItem>軟木材</ActivityItem>來做整體結構和風鈴管，幾個<ActivityItem>鐵塊</ActivityItem>來做鈴錘，還要<ActivityItem>線繩</ActivityItem>把它們組合在一起。"

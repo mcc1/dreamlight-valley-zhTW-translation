@@ -1,0 +1,5 @@
+"Kristoff_005_f", "<ActivityItem>椰子</ActivityItem>，就像你說的一樣……"
+"Kristoff_007_f", "好，我很樂意一試。"
+"Kristoff_001_f", "我把<ActivityItem>堿液</ActivityItem>還給你。"
+"Kristoff_000_f", "現在你有了製作<ActivityItem>肥皂</ActivityItem>所需的一切。我會先燒水。"
+"Kristoff_006_f", "所以，毛伊的秘訣就是<ActivityItem>椰子</ActivityItem>，哈……"

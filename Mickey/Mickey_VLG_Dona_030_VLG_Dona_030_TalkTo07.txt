@@ -1,0 +1,5 @@
+"Mickey_000_f", "嗨，{PlayerName}！我能幫你做什麼？"
+"Mickey_001_f", "我想借<ActivityItem>夢幻星光放大器</ActivityItem>。我和唐老鴨陷入了一種神奇的困境。"
+"Mickey_002_f", "當然可以！"
+"Mickey_003_f", "米妮回來了，這個我就用不著了。"
+"Mickey_007_f", "米奇，謝謝你！我一定會把它完好無損地帶回來。"

@@ -1,0 +1,6 @@
+"Merlin_002_f", "你收集這些的時候，我繼續研究了那塊大的<ActivityItem>夜之碎片</ActivityItem>。"
+"Merlin_006_f", "去你的製作臺，試著使用<ActivityItem>夢之碎片</ActivityItem>來凈化這些<ActivityItem>夜之碎片</ActivityItem>。"
+"Merlin_003_f", "它對夢幻星光魔法有強烈的反應。其實，我相信它曾是夢幻星光……"
+"Merlin_001_f", "……卻不知為何被黑暗腐化和扭曲了。"
+"Merlin_004_f", "我們或許可以用夢幻星光來凈化它們。"
+"Merlin_005_f", "試著在你的製作臺將<ActivityItem>夢之碎片</ActivityItem>跟<ActivityItem>夜之碎片</ActivityItem>融合起來。"

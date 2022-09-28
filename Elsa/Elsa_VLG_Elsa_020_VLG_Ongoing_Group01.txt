@@ -1,0 +1,1 @@
+"Elsa_000_f", "確保你手上有製作<ActivityItem>魚肉派</ActivityItem>需要的<ActivityItem>黃油</ActivityItem>和<ActivityItem>小麥</ActivityItem>。"

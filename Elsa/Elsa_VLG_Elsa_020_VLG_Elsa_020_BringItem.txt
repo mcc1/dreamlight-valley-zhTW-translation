@@ -1,0 +1,8 @@
+"Elsa_000_f", "太完美啦！"
+"Elsa_003_f", "用這些材料應該能做出美味的菜。"
+"Elsa_004_f", "現在要把它們混合起來……"
+"Elsa_005_f", "好了，正和我記憶中一樣。"
+"Elsa_007_f", "你知道嗎，我已經開始有家的感覺了。"
+"Elsa_001_f", "好，除了<ActivityItem>蒲公英糖漿</ActivityItem>、<ActivityItem>小麥</ActivityItem>和<ActivityItem>黃油</ActivityItem>外，我們還需要一條魚……"
+"Elsa_006_f", "我記得我們習慣用一種特殊的魚——<ActivityItem>發光鯡魚</ActivityItem>，這種魚只在<Lore>雨天的信仰林地</Lore>中出現。你能弄來一條嗎？"
+"Elsa_002_f", "這是我們一起做的<ActivityItem>蒲公英糖漿</ActivityItem>，交給你保管吧。"

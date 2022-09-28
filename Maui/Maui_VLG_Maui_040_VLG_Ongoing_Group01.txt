@@ -1,0 +1,1 @@
+"Maui_000_f", "用<ActivityItem>刮痧石</ActivityItem>清除<ActivityItem>石灰巖</ActivityItem>的外殼，這樣我們就能看到裡面的東西了。"

@@ -1,0 +1,7 @@
+"Player_000_choice_004_f", "我們給她建個房子吧。(使用{UpgradePrice}<sprite="iconCurrencySoft" index=0>)"
+"Scrooge_000_f", "我保證史高治建築公司會為你建一棟非常適合我們親愛的米妮的房子。"
+"Player_000_choice_000_f", "我們給她建個房子吧。(使用{UpgradePrice}<sprite="iconCurrencySoft" index=0>)"
+"Player_000_choice_001_f", "也許以後再說。"
+"Scrooge_002_f", "你不會後悔這次投資的。如果我認識米妮，我確實也認識，她肯定會喜歡的！"
+"Scrooge_003_f", "但這是筆很不錯的投資！*嘆氣*你想明白了就回來找我吧。"
+"Scrooge_001_f", "哎呀！你的星幣不夠，無法購買該房產！等你攢夠錢再來吧，{PlayerName}。"

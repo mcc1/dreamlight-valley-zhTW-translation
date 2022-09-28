@@ -1,0 +1,1 @@
+"Anna_001_f", "書上說我們需要一些<ActivityItem>鐵塊</ActivityItem>、<ActivityItem>沙子</ActivityItem>、<ActivityItem>鑄補零件</ActivityItem>和<ActivityItem>纖維</ActivityItem>。"

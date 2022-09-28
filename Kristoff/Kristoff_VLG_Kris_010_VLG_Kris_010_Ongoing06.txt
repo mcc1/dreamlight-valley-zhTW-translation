@@ -1,0 +1,1 @@
+"Kristoff_000_f", "要製作精油的話，我們會用到<ActivityItem>胡蘿蔔</ActivityItem>和<ActivityItem>椰子</ActivityItem>。"

@@ -1,0 +1,6 @@
+"Minnie_003_f", "哦，{PlayerName}，謝謝你！能再看到鮮花真是太開心了。"
+"Minnie_000_f", "當我處於那個中間地帶時……我感到安全，但那裡沒有顏色，所以我有些悲傷。這些鮮花是治癒的良藥！"
+"Minnie_001_f", "你知道，我想我會把這些花送給那個友善的夥伴——米奇。"
+"Minnie_002_f", "你能幫我為他做個漂亮的插花造型嗎？"
+"Minnie_004_f", "我正好有我們需要的花瓶。現在只差花了。"
+"Minnie_005_f", "我們可以用採來的<ActivityItem>繡球花</ActivityItem>、<ActivityItem>風鈴草</ActivityItem>和<ActivityItem>星星百合</ActivityItem>插滿它！"

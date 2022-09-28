@@ -1,0 +1,2 @@
+"Kristoff_000_f", "很好。製作新<ActivityItem>貨攤</ActivityItem>所需的材料都備齊了。謝謝你，{PlayerName}！"
+"Kristoff_001_f", "我想我們可以製作<ActivityItem>貨攤</ActivityItem>了，之後就把它放置在村莊裡。我會讓你選擇位置……這畢竟是你的星谷。"

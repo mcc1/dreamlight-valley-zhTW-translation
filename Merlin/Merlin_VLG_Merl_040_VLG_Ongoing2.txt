@@ -1,0 +1,2 @@
+"Merlin_000_f", "我們要把這塊奇怪的大型<ActivityItem>夜之碎片</ActivityItem>和普通<ActivityItem>碎片</ActivityItem>做個比較。"
+"Merlin_001_f", "村莊裡應該埋著一些。"

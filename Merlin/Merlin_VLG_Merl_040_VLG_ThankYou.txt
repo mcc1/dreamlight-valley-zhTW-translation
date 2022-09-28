@@ -1,0 +1,2 @@
+"Merlin_000_f", "啊，又是一塊<ActivityItem>夜之碎片</ActivityItem>。但是這塊比較大。"
+"Merlin_001_f", "嗯……你應該搜索村莊，尋找更多<ActivityItem>夜之碎片</ActivityItem>。我確定那裡埋著很多。"

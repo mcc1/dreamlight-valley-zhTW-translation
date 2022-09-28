@@ -1,0 +1,2 @@
+"PrinceEric_001_f", "你好，{PlayerName}！"
+"Player_001_exit_000_f", "抱歉，我現在沒時間閑聊。"

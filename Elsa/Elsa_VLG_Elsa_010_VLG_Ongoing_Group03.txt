@@ -1,0 +1,5 @@
+"Elsa_000_f", "你要找到材料來製作<ActivityItem>暖夏藥劑</ActivityItem>，強化你的鎬頭。"
+"Elsa_001_f", "你說過需要一些黃色的物品，比如<ActivityItem>向日葵</ActivityItem>和<ActivityItem>檸檬</ActivityItem>。"
+"Elsa_002_f", "用<ActivityItem>一小瓶海水</ActivityItem>帶來炫麗海灘的陽光。"
+"Elsa_005_f", "再用一些<ActivityItem>甘蔗</ActivityItem>讓它們結合在一起。"
+"Elsa_003_f", "還要些<ActivityItem>大蒜</ActivityItem>來加點蒜香味？"

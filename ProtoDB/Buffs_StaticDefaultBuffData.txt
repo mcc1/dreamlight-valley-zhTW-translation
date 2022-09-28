@@ -1,0 +1,4 @@
+"Description", "[DNT]Generic Buff Description"
+"Description_000", "提升移動速度"
+"DisplayName", "[DNT]Generic Buff"
+"DisplayName_000", "吃飽喝足"

@@ -1,0 +1,8 @@
+"Anna_000_f", "等等，我想起來了！在大遺忘之前，這些樹樁剛出現時，我從梅林那裡借來了這本書，我們肯定能擺脫它們。"
+"Player_000_choice_000_f", "希望梅林不要找我收延時歸還費。"
+"Player_000_choice_001_f", "我們需要做什麼？"
+"Anna_005_f", "哦，他不會的，對吧？呃，也許我應該趁他不注意偷偷放回書架……"
+"Anna_006_f", "書上說想要製作一把能夠破除黑暗魔法的強大鏟子，我們需要……"
+"Anna_007_f", "……<ActivityItem>軟木材</ActivityItem>、<ActivityItem>硬木</ActivityItem>、<ActivityItem>鑄補零件</ActivityItem>和<ActivityItem>鐵塊</ActivityItem>。"
+"Anna_008_f", "我會集齊這些東西並把它們帶去製作臺。"
+"Anna_003_f", "多謝，{PlayerName}。我會努力再找別的能通過的路，以策萬全。 等你擺脫了那些樹樁再來找我。"

@@ -1,0 +1,5 @@
+"Scrooge_000_f", "你在找什麼東西？"
+"Player_000_choice_000_f", "衣服"
+"Player_000_choice_001_f", "家具"
+"Player_000_choice_002_f", "不用了"
+"Scrooge_001_f", "要是改主意了就再來哦！"

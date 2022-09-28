@@ -1,0 +1,2 @@
+"Scrooge_002_f", "我們需要一些漂亮的花盆來裝飾商店門面。<ActivityItem>蒲公英</ActivityItem>和<ActivityItem>紫色直立釣鐘柳</ActivityItem>就很不錯……"
+"Scrooge_001_f", "接下來，把這些花種在我給你的盆裡就製作好花盆了。"

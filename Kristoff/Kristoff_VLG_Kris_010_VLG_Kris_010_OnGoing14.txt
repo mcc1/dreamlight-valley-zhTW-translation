@@ -1,0 +1,1 @@
+"Kristoff_000_f", "既然你找到了<ActivityItem>燒過的木材</ActivityItem>，你要在製作臺把它們磨成<ActivityItem>碳灰</ActivityItem>。"

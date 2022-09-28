@@ -1,0 +1,3 @@
+"MotherGothel_002_f", "要恢復<ActivityItem>黎明碎片</ActivityItem>，必須使用和早晨一樣清新的材料來凈化它。"
+"MotherGothel_000_f", "你需要<ActivityItem>檸檬</ActivityItem>、<ActivityItem>奧勒岡</ActivityItem>、<ActivityItem>薄荷</ActivityItem>和<ActivityItem>海水</ActivityItem>。"
+"MotherGothel_001_f", "然後，把<ActivityItem>黎明石碎片</ActivityItem>和那些食材組合起來，就像你做菜一樣。"

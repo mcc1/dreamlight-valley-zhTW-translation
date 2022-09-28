@@ -1,0 +1,1 @@
+"Scrooge_000_f", "收集一些<ActivityItem>金塊</ActivityItem>，在製作臺修理那把鑰匙。"

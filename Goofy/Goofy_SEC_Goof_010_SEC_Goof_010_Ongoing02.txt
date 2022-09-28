@@ -1,0 +1,2 @@
+"Goofy_000_f", "祝你好運，全部找到！"
+"Goofy_001_f", "在修理<ActivityItem>木筏殘骸</ActivityItem>之前，你得先處理下這些巨型暗夜荊棘。"

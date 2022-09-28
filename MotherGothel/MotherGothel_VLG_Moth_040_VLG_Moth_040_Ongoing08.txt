@@ -1,0 +1,2 @@
+"MotherGothel_000_f", "要恢復<ActivityItem>黃昏石碎片</ActivityItem>，就得像照顧<ActivityItem>作物</ActivityItem>一樣照顧它。"
+"MotherGothel_001_f", "埋在地裡，按需澆水。它需要一整天時間吸收土地的能量。"

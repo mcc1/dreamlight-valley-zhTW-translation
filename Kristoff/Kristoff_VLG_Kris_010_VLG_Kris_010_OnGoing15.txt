@@ -1,0 +1,1 @@
+"Kristoff_000_f", "要獲得<ActivityItem>堿液</ActivityItem>，你需要把<ActivityItem>碳灰</ActivityItem>煮沸。就像煮飯那樣，把碳灰丟進罐子裡。"

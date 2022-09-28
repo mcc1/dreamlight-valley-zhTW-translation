@@ -1,0 +1,6 @@
+"Scrooge_000_f", "鑑於小米餐廳是鎮上唯一的餐廳，讓它重新開張是一項不錯的投資。而且，我真的想在餐廳度過一個美好的夜晚！"
+"Player_000_choice_000_f", "讓小米餐廳開張。(使用{UpgradePrice}<sprite="iconCurrencySoft" index=0>)"
+"Player_000_choice_001_f", "或許以後再說。"
+"Scrooge_001_f", "幹得漂亮，{PlayerName}！我們總算可以盛大開業啦！"
+"Scrooge_004_f", "哎呀！你的星幣不足，無法讓小米餐廳重新開張！等你攢夠錢再來吧，{PlayerName}。"
+"Scrooge_002_f", "天啊！別再浪費我的時間了，等你真的想投資小米餐廳的時候再來找我吧。"

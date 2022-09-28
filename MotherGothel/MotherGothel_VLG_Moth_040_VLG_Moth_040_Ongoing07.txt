@@ -1,0 +1,3 @@
+"MotherGothel_000_f", "<ActivityItem>黃昏石碎片的</ActivityItem>能量需要一整天才能恢復。"
+"MotherGothel_001_f", "像照顧<ActivityItem>作物</ActivityItem>一樣照顧它，這樣它就能吸收星谷的力量。"
+"MotherGothel_002_f", "把它埋在遺忘之地，別忘了給它澆水。好，你去吧！趕緊出發！"

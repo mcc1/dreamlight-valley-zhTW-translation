@@ -1,0 +1,6 @@
+"Elsa_000_f", "哦，這些花真漂亮。來加點冰試試……"
+"Elsa_005_f", "好啦。"
+"Elsa_002_f", "你覺得我們還需要些什麼？"
+"Elsa_003_f", "既然一切都圍繞冬天，那我們就加更多冰吧，可以用冰窟裡的<ActivityItem>冰塊</ActivityItem>……"
+"Elsa_004_f", "來自霜寒高地的<ActivityItem>一瓶冰凍水</ActivityItem>，再找些<ActivityItem>雪</ActivityItem>讓它更冰涼。"
+"Elsa_006_f", "我會找齊所有材料，親手製作出<ActivityItem>冬寒藥劑</ActivityItem>。"

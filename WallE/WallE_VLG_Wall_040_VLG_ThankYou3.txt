@@ -1,0 +1,4 @@
+"WallE_000_f", "哦！哦！哦！"
+"WallE_004_f", "看來<ActivityItem>F02937 M3 N07</ActivityItem>還缺少最後一樣東西：一些<ActivityItem>鑄補零件</ActivityItem>！"
+"WallE_005_f", "我應該能在製作臺用鐵做出這些零件。"
+"WallE_002_f", "哇哦！"

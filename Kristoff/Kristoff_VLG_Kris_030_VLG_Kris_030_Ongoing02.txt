@@ -1,0 +1,1 @@
+"Kristoff_001_f", "高飛說我們需要<ActivityItem>軟木材</ActivityItem>、<ActivityItem>硬木材</ActivityItem>、<ActivityItem>鐵塊</ActivityItem>、<ActivityItem>沙子</ActivityItem>和<ActivityItem>石頭</ActivityItem>。"

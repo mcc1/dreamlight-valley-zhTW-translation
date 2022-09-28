@@ -1,0 +1,1 @@
+"Elsa_000_f", "你鑿碎冰塊後，又出現了一個奇怪的<ActivityItem>紋章</ActivityItem>。去看看吧。"

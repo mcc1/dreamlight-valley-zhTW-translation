@@ -1,0 +1,3 @@
+"Scrooge_004_f", "你還無法解鎖此物品。你需要擁有{UpgradePrice}枚星幣，達到{PlayerLevel}級，並且解鎖{RequiredCharacter}。"
+"Player_001_choice_000_f", "好的"
+"Scrooge_005_f", "等你滿足條件了再來吧。"

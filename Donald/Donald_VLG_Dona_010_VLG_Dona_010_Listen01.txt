@@ -1,0 +1,6 @@
+"Donald_000_f", "史高治叔叔，我需要你的幫助。我的船屋壞了！"
+"Donald_001_f", "啊，你還住在那兒？我可以幫你。"
+"Donald_002_f", "但你需要找到原材料！我家可不是做慈善的。"
+"Donald_003_f", "{Placeholder}I'm pretty sure {PlayerName} will be able to help me out."
+"Donald_004_f", "{Placeholder}Indeed, You will need a blueprint of your boat, some wood and two iron ingots to prepare the boat repair kit."
+"Donald_005_f", "{Placeholder}I have the blueprint in my house!! We'll go pick them up."

@@ -1,0 +1,6 @@
+"Merlin_003_f", "移除這些暗夜荊棘，就能掃清道路，帶你去到新的王國並結識新的朋友。只有你可以用你的夢幻星光來拔掉這些暗夜荊棘。"
+"Player_000_choice_000_f", "我們來移除暗夜荊棘吧。(使用{UpgradePrice} <sprite="iconCurrencyDreamlight" index=0>)"
+"Player_000_choice_001_f", "下次再說吧。"
+"Merlin_001_f", "太棒了！你解鎖了一個全新的樓層！"
+"Merlin_005_f", "不要著急！要想移除這些暗夜荊棘，你需要更多夢幻星光，還需要強化你的魔法。(達到{PlayerLevel}級)。"
+"Merlin_002_f", "記住：只有你才能打開這些門。"

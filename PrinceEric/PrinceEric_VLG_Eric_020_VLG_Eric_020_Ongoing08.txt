@@ -1,0 +1,2 @@
+"PrinceEric_000_f", "抓<ActivityItem>鸚鵡螺</ActivityItem>的物品全都準備好了。現在我們就去把它從海里釣上來。"
+"PrinceEric_001_f", "我們應該去<Lore>炫麗海灘上河流匯入大海的地方</Lore>。水流會幫忙把氣味帶到海洋深處。"

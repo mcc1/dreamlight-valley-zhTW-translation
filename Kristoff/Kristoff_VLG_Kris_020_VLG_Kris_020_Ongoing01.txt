@@ -1,0 +1,2 @@
+"Kristoff_000_f", "艾莎說我們需要<ActivityItem>沼澤水</ActivityItem>和<ActivityItem>海藍寶石</ActivityItem>？"
+"Kristoff_001_f", "我想<ActivityItem>海藍寶石</ActivityItem>是一種藍色的石頭。"

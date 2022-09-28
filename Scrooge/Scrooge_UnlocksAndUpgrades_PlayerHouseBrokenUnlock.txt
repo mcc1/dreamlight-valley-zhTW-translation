@@ -1,0 +1,6 @@
+"Scrooge_000_f", "沒有什麼比投資自己的房子更重要了！畢竟，這是你存放全部財產和休息的地方，這樣你才能為接下來的冒險做好準備。"
+"Player_000_choice_000_f", "修理我的房子吧。(使用{UpgradePrice}<sprite="iconCurrencySoft" index=0>)"
+"Player_000_choice_001_f", "或許以後再說。"
+"Scrooge_001_f", "真厲害！看起來好多了！"
+"Scrooge_004_f", "哎呀！你的星幣不夠，無法購買該房產！等你攢夠錢再來吧，{PlayerName}。"
+"Scrooge_002_f", "但這是筆很不錯的投資！*嘆氣*你想明白了就回來找我吧。"
