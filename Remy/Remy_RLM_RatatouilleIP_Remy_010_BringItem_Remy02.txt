@@ -6,6 +6,6 @@
 "Player_000_choice_000_f", "<ActivityItem>香蕉派</ActivityItem>"
 "Player_000_choice_001_f", "<ActivityItem>蘋果派</ActivityItem>"
 "Remy_003_f", "選得很好！這一次我就讓你自己來吧。"
-"Remy_007_f", "你需要三種食材。記住，美味派餅的關鍵是<ActivityItem>黃油</ActivityItem>。"
+"Remy_007_f", "你需要三種食材。記住，美味派餅的關鍵是<ActivityItem>奶油</ActivityItem>。"
 "Remy_004_f", "經典選擇！這一次我就讓你自己來吧。"
-"Remy_005_f", "你需要三種食材。記住，美味派餅的關鍵是<ActivityItem>黃油</ActivityItem>。"
+"Remy_005_f", "你需要三種食材。記住，美味派餅的關鍵是<ActivityItem>奶油</ActivityItem>。"

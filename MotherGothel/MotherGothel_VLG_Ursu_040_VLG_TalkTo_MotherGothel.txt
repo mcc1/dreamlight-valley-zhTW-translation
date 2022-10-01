@@ -14,7 +14,7 @@
 "Player_000_choice_004_f", "肯定是某種<ActivityItem>壽司</ActivityItem>捲。"
 "MotherGothel_012_f", "哦，我喜歡！我想知道……小老鼠給我做的<ActivityItem>龍蝦捲</ActivityItem>也叫壽司嗎？"
 "MotherGothel_013_f", "其實，我還想再吃一次！"
-"MotherGothel_015_f", "那麼，如果我的記憶正確，<ActivityItem>龍蝦捲</ActivityItem>是用<ActivityItem>龍蝦</ActivityItem>、<ActivityItem>小麥粉</ActivityItem>、<ActivityItem>檸檬</ActivityItem>、<ActivityItem>黃油</ActivityItem>和<ActivityItem>大蒜</ActivityItem>做的。"
+"MotherGothel_015_f", "那麼，如果我的記憶正確，<ActivityItem>龍蝦捲</ActivityItem>是用<ActivityItem>龍蝦</ActivityItem>、<ActivityItem>小麥粉</ActivityItem>、<ActivityItem>檸檬</ActivityItem>、<ActivityItem>奶油</ActivityItem>和<ActivityItem>大蒜</ActivityItem>做的。"
 "MotherGothel_014_f", "請你幫個忙，給我帶一些<ActivityItem>壽司</ActivityItem>和一個<ActivityItem>龍蝦捲</ActivityItem>來。哦，務必要新鮮。我只吃最新鮮的魚。"
 "MotherGothel_004_f", "我向你保證，是的。那麼，給我帶點吃的來，我會告訴你一些資訊。"
 "MotherGothel_005_f", "沒人教育你別撒謊嗎？我知道你在和海洋女巫密謀合作。她想知道關於詛咒的事，對嗎？"

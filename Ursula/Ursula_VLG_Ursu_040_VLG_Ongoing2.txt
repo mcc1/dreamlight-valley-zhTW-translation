@@ -1,2 +1,2 @@
 "Ursula_000_f", "她想要<ActivityItem>壽司</ActivityItem>和<ActivityItem>龍蝦捲</ActivityItem>？經典搭配！只需要把魚片放到飯糰上，<ActivityItem>壽司</ActivityItem>就做出來了……不要放章魚！"
-"Ursula_001_f", "至於<ActivityItem>龍蝦捲</ActivityItem>，你要用到<ActivityItem>龍蝦</ActivityItem>、<ActivityItem>小麥</ActivityItem>、<ActivityItem>檸檬</ActivityItem>、<ActivityItem>黃油</ActivityItem>和<ActivityItem>大蒜</ActivityItem>。"
+"Ursula_001_f", "至於<ActivityItem>龍蝦捲</ActivityItem>，你要用到<ActivityItem>龍蝦</ActivityItem>、<ActivityItem>小麥</ActivityItem>、<ActivityItem>檸檬</ActivityItem>、<ActivityItem>奶油</ActivityItem>和<ActivityItem>大蒜</ActivityItem>。"

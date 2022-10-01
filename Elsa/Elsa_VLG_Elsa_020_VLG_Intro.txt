@@ -30,7 +30,7 @@
 "Elsa_032_f", "有趣的是，我確實在冰窟裡看到了幾本阿倫戴爾傳統<ActivityItem>食譜書</ActivityItem>。"
 "Elsa_036_f", "我去把它們找出來……"
 "Elsa_021_f", "哦，謝謝你！幫了大忙。"
-"Elsa_000_f", "<ActivityItem>食譜書</ActivityItem>上說，讓<ActivityItem>魚肉派</ActivityItem>風味特別的秘訣就是<ActivityItem>蒲公英糖漿</ActivityItem>和<ActivityItem>鯡魚</ActivityItem>，然後再加上些<ActivityItem>小麥</ActivityItem>和<ActivityItem>黃油</ActivityItem>。"
+"Elsa_000_f", "<ActivityItem>食譜書</ActivityItem>上說，讓<ActivityItem>魚肉派</ActivityItem>風味特別的秘訣就是<ActivityItem>蒲公英糖漿</ActivityItem>和<ActivityItem>鯡魚</ActivityItem>，然後再加上些<ActivityItem>小麥</ActivityItem>和<ActivityItem>奶油</ActivityItem>。"
 "Elsa_024_f", "<ActivityItem>蒲公英糖漿</ActivityItem>是用<ActivityItem>大蒜</ActivityItem>、<ActivityItem>檸檬</ActivityItem>、<ActivityItem>蒲公英</ActivityItem>和<ActivityItem>洋蔥</ActivityItem>製成的。"
 "Elsa_019_f", "如果你能找齊這些原材料，也許我們就能一起製作這種糖漿。製作方法都在這兒了。"
 "Elsa_025_f", "哦，還有<ActivityItem>阿倫戴爾腌鯡魚</ActivityItem>的烹製方法也很簡單。<ActivityItem>食譜書</ActivityItem>給你。"
