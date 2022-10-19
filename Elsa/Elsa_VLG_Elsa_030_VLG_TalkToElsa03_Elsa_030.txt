@@ -1,4 +1,4 @@
 "Elsa_000_f", "藥劑很強大，{PlayerName}。我的魔法能感覺到。"
 "Elsa_003_f", "來，你拿回去吧……"
-"Elsa_001_f", "我要像這樣把它用在我的<ActivityItem>鎬頭</ActivityItem>上……"
+"Elsa_001_f", "我要像這樣把它用在我的<ActivityItem>鎬子</ActivityItem>上……"
 "Elsa_002_f", "但願能有用。我們要不要在洞裡的大冰塊上試試？"

@@ -1,1 +1,1 @@
-"Elsa_000_f", "現在要做的就是把藥劑用在你的<ActivityItem>鎬頭</ActivityItem>上。"
+"Elsa_000_f", "現在要做的就是把藥劑用在你的<ActivityItem>鎬子</ActivityItem>上。"

@@ -1,5 +1,5 @@
 "Scrooge_000_f", "現在是升級你房子的大好時機——會有更多房間和樓層。是的，擴建房子會給你留下深刻的印象。"
-"Player_000_choice_000_f", "升級我的房子吧。(使用{UpgradePrice}<sprite="iconCurrencySoft" index=0>)"
+"Player_000_choice_000_f", "升級我的房子。（使用<nobr>{UpgradePrice} <sprite="iconCurrencySoft" index=0>）</nobr>"
 "Player_000_choice_001_f", "或許以後再說。"
 "Scrooge_002_f", "這真是溫暖你心的景象！"
 "Scrooge_005_f", "哎呀！你的星幣不夠，無法購買該房產！等你攢夠錢再來吧，{PlayerName}。"

@@ -1,5 +1,5 @@
 "Scrooge_006_f", "如果你幫忙在村子的這個位置建一個貨攤！這可以幫你省去長途跋涉的麻煩……還能讓你交易更多產品。"
-"Player_000_choice_000_f", "我們來建貨攤吧。(使用{UpgradePrice}<sprite="iconCurrencySoft" index=0>)"
+"Player_000_choice_000_f", "建貨攤。（使用<nobr>{UpgradePrice} <sprite="iconCurrencySoft" index=0>）</nobr>"
 "Player_000_choice_001_f", "我下次再來吧。"
 "Scrooge_001_f", "嚇我一跳！看看有什麼可以買！"
 "Scrooge_004_f", "哎呀！你的星幣不夠建貨攤！等你攢夠錢再來吧，{PlayerName}。"

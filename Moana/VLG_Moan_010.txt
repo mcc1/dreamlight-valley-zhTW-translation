@@ -11,7 +11,7 @@
 "Village!Moana!Moana!VLG_Moan_010_Group03_StepDescription", "收集以下物品來修理破船："
 "Village!Moana!Moana!VLG_Moan_010_Group03_StoryDescription", "她想修好船，你同意幫助她。"
 "Village!Moana!Moana!VLG_Moan_010_Group04_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>我們要去哪裡？"
-"Village!Moana!Moana!VLG_Moan_010_Group04_Step07_FollowCharacter02_StepDescription", "去破船處找莫阿娜"
+"Village!Moana!Moana!VLG_Moan_010_Group04_Step07_FollowCharacter02_StepDescription", "去絢麗海灘的破船處找莫阿娜"
 "Village!Moana!Moana!VLG_Moan_010_Group05_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>我應該做什麼？"
 "Village!Moana!Moana!VLG_Moan_010_Group05_Step05_CraftItem01_StepDescription", "<ActivityItem>粗製木箱<ActivityItem>"
 "Village!Moana!Moana!VLG_Moan_010_Group05_Step05_CraftItem04_StepDescription", "<ActivityItem>籃子<ActivityItem>"

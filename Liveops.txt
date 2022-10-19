@@ -1,25 +1,85 @@
-"DreamshardsGift_Description", "翻遍郵箱，你發現了一些夢之碎片。
-最好將它們儲存在安全的地方，直到需要為止。"
-"DreamshardsGift_Title", "有東西卡在郵箱裡 : 夢之碎片"
-"DreamshardsGift2_Description", "在遊戲後期，您將體驗一個需要夢想碎片的任務。
-由於我們正在修復一個平衡問題，你可能會發現很難獲得足夠的夢想碎片來推進你的任務。
-作為補償，我們現在給你一些夢想碎片。
+"D23_Dreamlight_Description", "歡迎來到《迪士尼夢幻星谷》！
 
-我們建議您將夢想碎片放在家裡的箱子裡妥善保管。"
-"DreamshardsGift2_Title", "明智地使用你的夢想碎片！"
-"FirstWeekBonus_Description", "感謝您成為《迪士尼夢幻星谷》的首批玩家！為感謝您的熱情，我們為您奉上了一些甜美的獎勵！"
-"FirstWeekBonus_Title", "歡迎來到《迪士尼夢幻星谷》！"
+穿上這件專屬D23運動衫，與你的迪士尼和皮克斯好友一起暢享魔法生活！"
+"D23_Dreamlight_Title", "D23專屬"
+"DreamshardsGift_Description", "你在信箱你翻找出了一些夢之碎片。
+最好把它們好好儲存起來，以備不時之需。"
+"DreamshardsGift_Title", "有東西滯留在信箱裡：夢之碎片"
+"DreamshardsGift2_Description", "在稍後的遊戲中，你將遇到需要夢之碎片的任務。
+由於一個我們正在努力修復的平衡性問題，你會發現很難獲得足夠的夢之碎片來推進任務。
+作為補償，我們現在給你一些夢之碎片。
+
+我們建議你把夢之碎片放在你屋子裡的箱子中，好好保管。"
+"DreamshardsGift2_Title", "明智地使用你的夢之碎片！"
+"FirstWeekBonus_Description", "感謝您成為《迪士尼夢幻星谷》的首批玩家！爲了感謝您的熱情，請收下附贈的精美獎勵吧！"
+"FirstWeekBonus_Title", "歡迎來到迪士尼夢幻星谷！"
 "FounderPackBaseGame_Description", "感謝您購買創始人包基礎遊戲。祝您遊戲愉快！"
 "FounderPackBaseGame_Title", "創始人包基礎遊戲"
 "FounderPackDeluxe_Description", "感謝您購買豪華創始人包。祝您遊戲愉快！"
 "FounderPackDeluxe_Title", "豪華創始人包"
 "FounderPackUltimate_Description", "感謝您購買尊貴創始人包。祝您遊戲愉快！"
 "FounderPackUltimate_Title", "尊貴創始人包"
-"InfluencerMickeyTangledSet_Description", "Here is a special gift for you!"
-"InfluencerMickeyTangledSet_Title", "Special Gift"
+"Halloween2022_CurrencyName", "南瓜幣"
+"Halloween2022_Description", "是時候在「迪士尼夢幻星谷」中放縱你的邪惡一面了。在巢穴中安頓下來，密謀邪惡計劃，並發現新的方式來裝扮你的村莊！
+爲了獲得獨家的邪惡獎勵，你需要與邪惡的迪士尼反派們合作，清除暗夜荊棘來爭奪地盤，並在勇氣森林或信仰林地中隱秘行動。
+贏得以迪士尼經典反派為主題的新服裝。解鎖新的家具，把你的秘密巢穴佈置成你想要的舒適或驚悚的樣子。
+加入「反派星路」，然後等著瞧吧——有時候，壞一點也挺不錯。"
+"Halloween2022_Task01_Description", "清除暗夜荊棘"
+"Halloween2022_Task02_Description", "出售2星餐食"
+"Halloween2022_Task03_Description", "挖掘橄欖石"
+"Halloween2022_Task04_Description", "和梅林進行日常對話"
+"Halloween2022_Task05_Description", "採摘藍莓"
+"Halloween2022_Task06_Description", "獲取星幣"
+"Halloween2022_Task07_Description", "出售鯉魚"
+"Halloween2022_Task08_Description", "收穫燈籠椒"
+"Halloween2022_Task09_Description", "釣到鮪魚"
+"Halloween2022_Task10_Description", "送出最喜歡的禮物"
+"Halloween2022_Task11_Description", "使用糖烹製餐食"
+"Halloween2022_Task12_Description", "出售菠菜"
+"Halloween2022_Task13_Description", "使用玉米烹製餐食"
+"Halloween2022_Task14_Description", "給梅林送他最喜歡的禮物"
+"Halloween2022_Task15_Description", "挖掘礦石"
+"Halloween2022_Task16_Description", "在小米餐廳招待顧客"
+"Halloween2022_Task17_Description", "獲取星幣"
+"Halloween2022_Task18_Description", "收穫番茄"
+"Halloween2022_Task19_Description", "完成夢幻星光任務"
+"Halloween2022_Task20_Description", "給葛索媽媽送她最喜歡的禮物"
+"Halloween2022_Task21_Description", "釣到鯡魚"
+"Halloween2022_Task22_Description", "獲取星幣"
+"Halloween2022_Task23_Description", "挖掘閃亮海藍寶石"
+"Halloween2022_Task24_Description", "使用大蒜烹製餐食"
+"Halloween2022_Task25_Description", "收穫稻米"
+"Halloween2022_Task26_Description", "烹製3星餐食"
+"Halloween2022_Task27_Description", "在小米餐廳招待顧客"
+"Halloween2022_Task28_Description", "給烏蘇拉送她最喜歡的禮物"
+"Halloween2022_Task29_Description", "出售電氣石"
+"Halloween2022_Task30_Description", "烹製任意餐食"
+"Halloween2022_Task31_Description", "在炫麗海灘釣魚"
+"Halloween2022_Task32_Description", "完成夢幻星光任務"
+"Halloween2022_Task33_Description", "採摘紫色鮮花"
+"Halloween2022_Task34_Description", "和烏蘇拉進行日常對話"
+"Halloween2022_Task35_Description", "獲取星幣"
+"Halloween2022_Task36_Description", "清除暗夜荊棘"
+"Halloween2022_Task37_Description", "和葛索媽媽進行日常對話"
+"Halloween2022_Task38_Description", "採摘蘑菇"
+"Halloween2022_Task39_Description", "完成夢幻星光任務"
+"Halloween2022_Task40_Description", "開始討論"
+"Halloween2022_Task41_Description", "採摘橙色鮮花"
+"Halloween2022_Task42_Description", "烹製糖果"
+"Halloween2022_Task43_Description", "收穫可可豆"
+"Halloween2022_Task44_Description", "在日照高原釣魚"
+"Halloween2022_Task45_Description", "獲取星幣"
+"Halloween2022_Task46_Description", "清除暗夜荊棘"
+"Halloween2022_Task47_Description", "在日照高原挖掘礦石"
+"Halloween2022_Task48_Description", "收穫紅辣椒"
+"Halloween2022_Task49_Description", "製作巧克力豆餅乾"
+"Halloween2022_Task50_Description", "使用蘑菇烹製餐食"
+"Halloween2022_Title", "反派星路"
+"InfluencerMickeyTangledSet_Description", "送您一份特別禮物！"
+"InfluencerMickeyTangledSet_Title", "特別禮物"
 "PixarFestStarPath_CurrencyName", "代幣"
-"PixarFestStarPath_Description", "連續舉辦了3年的皮克斯嘉年華讓世界各地的粉絲齊聚一堂，慶祝動畫工作室在世界各地為我們呈現令人難忘的經典角色。而今年，您可以在《迪士尼夢幻星谷》中參與慶典！
-完成節日任務來收集標誌性的代幣，獲得根據皮克斯動畫工作室創意設計的時尚新外觀。順著星路開啟旅程，在遊戲中與你最喜愛的迪士尼和皮克斯角色慶祝皮克斯嘉年華。
+"PixarFestStarPath_Description", "連續舉辦了三年的皮克斯嘉年華讓世界各地的粉絲齊聚一堂，慶祝動畫工作室在世界各地為我們呈現令人難忘的經典角色。而今年，您可以在《迪士尼夢幻星谷》中參與慶典！
+完成節日任務來收集標誌性代幣，獲得根據皮克斯動畫工作室創意設計的時尚新外觀。順著星路開啟旅程，在遊戲中與你最喜愛的迪士尼和皮克斯角色慶祝皮克斯嘉年華。
 讓我們相約星谷！"
 "PixarFestStarPath_Task01_Description", "清除暗夜荊棘"
 "PixarFestStarPath_Task02_Description", "出售餐食"
@@ -60,6 +120,13 @@
 "PromoCustoTest_Title", "自定義代碼"
 "PromoDLTest_Description", "享受夢幻星光帶來的樂趣"
 "PromoDLTest_Title", "夢幻星光代碼"
+"PS_Jersey_Description", "請收下我們客戶服務團隊送出的小禮物。
+試試吧！你穿紫色很好看。"
+"PS_Jersey_Title", "客戶服務禮物"
+"TheGoldenPotato_Description", "你偶然發現了一個金色物品，它看上去像個奇怪的馬鈴薯。
+
+它會藏著什麼樣的秘密呢？！"
+"TheGoldenPotato_Title", "神秘物體"
 "Welcome_Description", "親愛的玩家，
 
 歡迎來到夢幻星谷！

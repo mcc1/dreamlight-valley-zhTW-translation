@@ -1,0 +1,1 @@
+"Scar_000_f", "把<ActivityItem>陳骨</ActivityItem>放到我洞穴裡的<Lore>火山噴泉</Lore>裡。"

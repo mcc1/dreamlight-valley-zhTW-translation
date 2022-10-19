@@ -28,7 +28,7 @@
 "Village!LilMermaid!Ariel!VLG_Arie_030_Group04_StoryDescription", "愛麗兒收到這些物品很高興，但其中一個物品壞了讓她頗受打擊。你決定為她製作一個專屬的製作臺。"
 "Village!LilMermaid!Ariel!VLG_Arie_030_Group05_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>你需要什麼？"
 "Village!LilMermaid!Ariel!VLG_Arie_030_Group05_Step05_CraftItem01_StepDescription", "製作愛麗兒的製作臺"
-"Village!LilMermaid!Ariel!VLG_Arie_030_Group07_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>接下來呢？"
+"Village!LilMermaid!Ariel!VLG_Arie_030_Group07_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>接下來怎麼做呢？"
 "Village!LilMermaid!Ariel!VLG_Arie_030_Group07_Step07_BringItem02_StepDescription", "確保你的物品欄中有愛麗兒的製作臺"
 "Village!LilMermaid!Ariel!VLG_Arie_030_Group07_Step07_ReadyDescription", "把製作臺送給愛麗兒"
 "Village!LilMermaid!Ariel!VLG_Arie_030_StartRequestButton", "<smallcaps>{title}</smallcaps><br>開始任務"

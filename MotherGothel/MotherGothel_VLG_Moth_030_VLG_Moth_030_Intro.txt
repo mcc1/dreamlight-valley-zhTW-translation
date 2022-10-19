@@ -8,7 +8,7 @@
 "MotherGothel_004_f", "啊，我只是開玩笑罷了！"
 "Player_000_choice_008_f", "我喜歡你的笑話！"
 "Player_000_choice_009_f", "你嘴巴怎麼這麼毒？"
-"Player_000_choice_010_f", "快點道歉，不然我可罷工了。"
+"Player_000_choice_010_f", "快點道歉，不然我可要罷工了。"
 "MotherGothel_005_f", "終於有人欣賞我了。我女兒可真是忘恩負義。"
 "MotherGothel_011_f", "好了，關於<ActivityItem>碎片</ActivityItem>……"
 "MotherGothel_012_f", "每塊碎片都會在特定的時間和地點出現。<ActivityItem>黎明碎片</ActivityItem>在清晨的日照高原上……"

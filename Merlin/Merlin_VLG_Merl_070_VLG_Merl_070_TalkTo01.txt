@@ -3,7 +3,7 @@
 "Merlin_003_f", "準備……成為巫師吧！"
 "Player_000_choice_003_f", "哇哦！"
 "Player_000_choice_004_f", "我真的可以嗎？"
-"Player_000_choice_005_f", "我會戴上尖帽嗎？"
+"Player_000_choice_005_f", "我會戴上尖帽子嗎？"
 "Merlin_005_f", "這本書講了如何給物品附魔。"
 "Merlin_006_f", "它以謎語的形式記錄，真正的巫師都能解開這些謎語。"
 "Merlin_008_f", "我給你一個提示——你需<ActivityItem>冰淚種子</ActivityItem>。"

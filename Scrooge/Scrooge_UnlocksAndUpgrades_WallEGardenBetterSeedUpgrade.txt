@@ -1,5 +1,5 @@
 "Scrooge_000_f", "你知道，升級後的花園會擁有更大的面積和更多種類的作物，而且搞園藝消耗的精力也會減少。"
-"Player_000_choice_000_f", "升級瓦力的花園。(使用{UpgradePrice}<sprite="iconCurrencySoft" index=0>)"
+"Player_000_choice_000_f", "升級瓦力的花園。（使用<nobr>{UpgradePrice} <sprite="iconCurrencySoft" index=0>）</nobr>"
 "Player_000_choice_001_f", "或許以後再說。"
 "Scrooge_002_f", "哇，真是太棒了！迫不及待想看你會種些什麼了。"
 "Scrooge_005_f", "哎呀！你的星幣不夠，無法升級瓦力的花園！等你攢夠錢再來吧，{PlayerName}。"

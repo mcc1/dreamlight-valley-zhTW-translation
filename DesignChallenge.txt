@@ -1,4 +1,4 @@
-"", "參加{TargetAmount}次裝飾設計挑戰"
+"", "參與{TargetAmount}次裝飾設計挑戰"
 "challenge_decor_friday_desc", "莫阿娜邀請你去她家，晚上一起放鬆一下。"
 "challenge_decor_friday_title", "莫阿娜的晚間邀約"
 "challenge_decor_monday_desc", "You invited a guest for a provincial-themed dinner! Make sure they feel at home!"

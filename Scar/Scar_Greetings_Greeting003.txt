@@ -1,0 +1,2 @@
+"Scar_000_f", "瞧，這不是{PlayerName}嗎？"
+"Player_000_exit_000_f", "我該走了。"

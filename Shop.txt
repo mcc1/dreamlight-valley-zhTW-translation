@@ -15,7 +15,7 @@
 "error_already_purchased", "已購買"
 "exit_confirmation", "確定要退出嗎？"
 "next_daily_reward_time_left", "下次禮物："
-"order_shopping_cart_body", "確定要購買嗎？物品將會送到你的郵箱。"
+"order_shopping_cart_body", "確定要購買嗎？物品將會送到你的信箱。"
 "product_bonus_percent", "贈送{percent}%<br>"
 "product_discount_percent", "優惠{percent}%"
 "product_offer_expire", "過期時間："

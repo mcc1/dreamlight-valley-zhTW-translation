@@ -1,5 +1,5 @@
 "Scrooge_000_f", "如果你升級莫阿娜的船，不但消耗的精力減少，她還能捕到更多的魚！這就是我說的一本萬利。呵呵呵。"
-"Player_000_choice_000_f", "我們升級漁船吧。(使用{UpgradePrice}<sprite="iconCurrencySoft" index=0>)"
+"Player_000_choice_000_f", "升級漁船。（使用<nobr>{UpgradePrice} <sprite="iconCurrencySoft" index=0>）</nobr>"
 "Player_000_choice_001_f", "或許以後再說。"
 "Scrooge_002_f", "閃瞎我的眼！真是一條漂亮的船！"
 "Scrooge_005_f", "哎呀！你的星幣不夠修船！等你攢夠錢再來吧，{PlayerName}。"

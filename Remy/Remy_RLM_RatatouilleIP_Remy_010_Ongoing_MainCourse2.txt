@@ -1,2 +1,2 @@
 "Remy_000_f", "你要準備一個{ItemName}。"
-"Remy_001_f", "製作一個簡單的{ItemName}，然後加點香料！"
+"Remy_001_f", "製作一個普通{ItemName}，然後加點香料！"

@@ -33,7 +33,7 @@
 "Village!Frozen!Anna!VLG_Anna_010_Group11_OngoingRequestButton", "我能做什麼？"
 "Village!Frozen!Anna!VLG_Anna_010_Group11_Step11_TalkToCharacter03_StepDescription", "給安娜看照片"
 "Village!Frozen!Anna!VLG_Anna_010_Group12_OngoingRequestButton", "我該用這封信做什麼？"
-"Village!Frozen!Anna!VLG_Anna_010_Group12_Step12_BringItem02_StepDescription", "確保你的揹包中有<ActivityItem>安娜的信</ActivityItem>。"
+"Village!Frozen!Anna!VLG_Anna_010_Group12_Step12_BringItem02_StepDescription", "確保你的背包中有<ActivityItem>安娜的信</ActivityItem>。"
 "Village!Frozen!Anna!VLG_Anna_010_Group12_Step12_ReadyDescription", "把<ActivityItem>安娜的信</ActivityItem>交給<Lore>冰雪王國</Lore>裡的艾莎。"
 "Village!Frozen!Anna!VLG_Anna_010_Group12_StoryDescription", "你和安娜謀劃了一個計劃，向艾莎發出一份她無法拒絕的邀請。"
 "Village!Frozen!Anna!VLG_Anna_010_StartRequestButton", "怎麼了？"

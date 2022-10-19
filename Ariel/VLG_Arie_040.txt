@@ -8,7 +8,7 @@
 "Village!LilMermaid!Ariel!VLG_Arie_040_Group02_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>我應該做什麼？"
 "Village!LilMermaid!Ariel!VLG_Arie_040_Group02_StepDescription", "跟愛麗兒談談"
 "Village!LilMermaid!Ariel!VLG_Arie_040_Group02_StoryDescription", "梅林告訴你，要打開這扇門，你需要用不同村民的情感來給<ActivityItem>石板</ActivityItem>施法。愛麗兒能幫你找出該找誰談話。"
-"Village!LilMermaid!Ariel!VLG_Arie_040_Group03_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>接下來呢？"
+"Village!LilMermaid!Ariel!VLG_Arie_040_Group03_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>接下來怎麼做呢？"
 "Village!LilMermaid!Ariel!VLG_Arie_040_Group03_StepDescription", "跟小米談談他的激情"
 "Village!LilMermaid!Ariel!VLG_Arie_040_Group04_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>我應該找誰聊聊？"
 "Village!LilMermaid!Ariel!VLG_Arie_040_Group04_StepDescription", "跟莫阿娜談談她的興奮"

@@ -1,5 +1,5 @@
 "Scrooge_003_f", "我看你找到了瓦力的花園。如果你能修復它，瓦力就可以幫你種植作物。瓦力可是個種植高手，鐵樹他也能給你種開花！"
-"Player_000_choice_000_f", "修復瓦力的花園。(使用{UpgradePrice}<sprite="iconCurrencySoft" index=0>)"
+"Player_000_choice_000_f", "修復瓦力的花園。（使用<nobr>{UpgradePrice} <sprite="iconCurrencySoft" index=0>）</nobr>"
 "Player_000_choice_001_f", "或許以後再說。"
 "Scrooge_001_f", "天吶！這也太美了吧！"
 "Scrooge_007_f", "那個小機器人肯定會非常高興！"

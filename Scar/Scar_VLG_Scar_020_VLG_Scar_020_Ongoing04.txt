@@ -1,0 +1,2 @@
+"Scar_000_f", "想要加強你的<ActivityItem>皇家鏟子</ActivityItem>，你需要<ActivityItem>鐵塊</ActivityItem>和<ActivityItem>乾木材</ActivityItem>。"
+"Scar_002_f", "你還得去懸崖邊的地上找到<ActivityItem>獅爪</ActivityItem>。"

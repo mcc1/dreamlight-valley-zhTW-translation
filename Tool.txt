@@ -1,5 +1,5 @@
 "FishingRod_DisplayName", "釣魚竿"
 "Phone_DisplayName", "手機相機工具"
-"Pickaxe_DisplayName", "鎬頭"
+"Pickaxe_DisplayName", "鎬子"
 "Shovel_DisplayName", "鏟子"
 "WateringCan_DisplayName", "灑水壺"

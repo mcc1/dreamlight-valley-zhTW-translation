@@ -1,5 +1,5 @@
 "Scrooge_004_f", "升級莫阿娜的船意味著可以擴大倉庫，減少精力消耗，還能幫她捕到更稀有的魚類！沒有比這更劃算的投資了。"
-"Player_001_choice_000_f", "我們升級漁船吧。(使用{UpgradePrice}<sprite="iconCurrencySoft" index=0>)"
+"Player_001_choice_000_f", "升級漁船。（使用<nobr>{UpgradePrice} <sprite="iconCurrencySoft" index=0>）</nobr>"
 "Player_001_choice_001_f", "或許以後再說。"
 "Scrooge_007_f", "真厲害！看起來好多了！"
 "Scrooge_008_f", "哎呀！你的星幣不夠修船！等你攢夠錢再來吧，{PlayerName}。"

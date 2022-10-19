@@ -1,0 +1,4 @@
+"Merlin_003_f", "真棒！你做到了！你的灑水壺充滿神奇的活力。"
+"Merlin_001_f", "最後一步很簡單……<Lore>把<ActivityItem>培育寶珠</ActivityItem>種在日照高原的柱子前面。"
+"Merlin_002_f", "<Lore>……照料它，直到它長大！</Lore>"
+"Merlin_004_f", "這一步需要一點耐心，{PlayerName}。重點是培育<ActivityItem>寶珠</ActivityItem>直到它恢復內在的魔力。"

@@ -29,7 +29,7 @@
 "Realm!Frozen!Anna!RLM_FrozenIP_Anna_010_Group10_Step11_FillKeyhole01_StepDescription", "把<ActivityItem>石頭湯</ActivityItem>放在大地巨人腳旁的石堆上。"
 "Realm!Frozen!Anna!RLM_FrozenIP_Anna_010_Group11_Step12_TalkToCharacter03_StepDescription", "和安娜交談"
 "Realm!Frozen!Anna!RLM_FrozenIP_Anna_010_Group12_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>接下來怎麼辦？"
-"Realm!Frozen!Anna!RLM_FrozenIP_Anna_010_Group12_Step13_VisitArea03_StepDescription", "用鏟子和鎬頭清理道路"
+"Realm!Frozen!Anna!RLM_FrozenIP_Anna_010_Group12_Step13_VisitArea03_StepDescription", "用鏟子和鎬子清理道路"
 "Realm!Frozen!Anna!RLM_FrozenIP_Anna_010_Group12_StepDescription", "探索魔法森林更深處，找到艾莎"
 "Realm!Frozen!Anna!RLM_FrozenIP_Anna_010_Group13_Step14_TalkToCharacter04_StepDescription", "和安娜交談"
 "Realm!Frozen!Anna!RLM_FrozenIP_Anna_010_Group13_StepDescription", "糟糕！橋被水淹了！"

@@ -3,7 +3,7 @@
 "Realm!WallE!WallE!RLM_WallEIP_Wall_010_Group01_StoryDescription", "你遇到了瓦力，他的履帶壞了。你決定幫他換一個。"
 "Realm!WallE!WallE!RLM_WallEIP_Wall_010_Group02_StoryDescription", "收集完垃圾後，瓦力給了你種子。很明顯，這個小機器人想學習園藝，但不知道從哪裡開始。"
 "Realm!WallE!WallE!RLM_WallEIP_Wall_010_Group05_StoryDescription", "你想帶瓦力來村莊，但他有點害羞。你決定向村民求助。"
-"Realm!WallE!WallE!RLM_WallEIP_Wall_010_Group07_Step07_StepDescription", "(在村莊裡開採巖石有機率掉落寶石)"
+"Realm!WallE!WallE!RLM_WallEIP_Wall_010_Group07_Step07_StepDescription", "(在村莊裡開採岩石有機率掉落寶石)"
 "Realm!WallE!WallE!RLM_WallEIP_Wall_010_Group11_Step11_PlaceBuilding01_StepDescription", "給瓦力一個家，讓他在村子裡過得舒適自在"
 "Realm!WallE!WallE!RLM_WallEIP_Wall_010_Group12_StoryDescription", "小機器人需要一個能給他帶來安全感的地方。要建造這個地方，史高治建築公司是不二之選。"
 "Realm!WallE!WallE!RLM_WallEIP_Wall_010_Group14_StoryDescription", "瓦力正在清理地面。爲了贏得他的友誼，你決定也這樣做。"

@@ -1,0 +1,4 @@
+"Description", "Generic Buff Description"
+"Description_001", "澆灌作物後可使它們立即生長。"
+"DisplayName", "Generic Buff"
+"DisplayName_001", "神奇生長液"

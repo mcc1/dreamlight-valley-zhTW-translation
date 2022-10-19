@@ -1,5 +1,5 @@
 "Scrooge_000_f", "如果你對小米餐廳做些改進，我們的小廚師就能處理更多訂單，客人們也會更開心！"
-"Player_000_choice_000_f", "升級小米餐廳。(使用{UpgradePrice}<sprite="iconCurrencySoft" index=0>)"
+"Player_000_choice_000_f", "升級小米餐廳。（使用<nobr>{UpgradePrice} <sprite="iconCurrencySoft" index=0>）</nobr>"
 "Player_000_choice_001_f", "或許以後再說。"
 "Scrooge_002_f", "哇！真令人大開眼界！多好的餐廳啊！我很快就回來。"
 "Scrooge_005_f", "哎呀！你的星幣不足，無法升級小米餐廳！等你攢夠錢再來吧，{PlayerName}。"

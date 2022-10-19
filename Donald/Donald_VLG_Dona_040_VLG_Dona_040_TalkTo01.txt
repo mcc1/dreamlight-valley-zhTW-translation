@@ -5,7 +5,7 @@
 "Donald_007_f", "耶，等我們修好後，它肯定能成為村莊裡最美的地方。"
 "Donald_011_f", "我們該怎麼建造這個東西？"
 "Donald_001_f", "我們要找齊我寫在清單上的這些東西……"
-"Donald_005_f", "<ActivityItem>巖石</ActivityItem>、<ActivityItem>鐵塊</ActivityItem>、<ActivityItem>泥土</ActivityItem>、<ActivityItem>硬木</ActivityItem>和<ActivityItem>黏土</ActivityItem>。"
+"Donald_005_f", "<ActivityItem>岩石</ActivityItem>、<ActivityItem>鐵塊</ActivityItem>、<ActivityItem>泥土</ActivityItem>、<ActivityItem>硬木</ActivityItem>和<ActivityItem>黏土</ActivityItem>。"
 "Donald_006_f", "外加我之前在噴泉附近埋下的部件。"
 "Donald_003_f", "快看，這裡有<ActivityItem>水泵</ActivityItem>、<ActivityItem>盆</ActivityItem>、<ActivityItem>渦輪機</ActivityItem>和<ActivityItem>配電器</ActivityItem>。"
 "Donald_004_f", "等你把其他東西都找齊後，製作<ActivityItem>夢幻噴泉</ActivityItem>，然後回遺忘之地找我。我還有進一步的計劃。"

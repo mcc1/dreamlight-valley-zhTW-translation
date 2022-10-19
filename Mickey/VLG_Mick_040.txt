@@ -9,7 +9,7 @@
 "Village!Mickey!Mickey!VLG_Mick_040_Group02_Step02_PlaceHouse01_StepDescription", "在村裡放置米妮小屋"
 "Village!Mickey!Mickey!VLG_Mick_040_Group02_StoryDescription", "米妮告訴你帶她回來的方法。要把她的小屋再次放在村裡。"
 "Village!Mickey!Mickey!VLG_Mick_040_Group03_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>我應該做什麼？"
-"Village!Mickey!Mickey!VLG_Mick_040_Group03_Step03_Unlock01_StepDescription", "整理好米妮小屋，準備迎接她回家"
+"Village!Mickey!Mickey!VLG_Mick_040_Group03_Step03_Unlock01_StepDescription", "點選史高治標識來支付米妮小屋的建築費"
 "Village!Mickey!Mickey!VLG_Mick_040_Group04_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>我應該做什麼？"
 "Village!Mickey!Mickey!VLG_Mick_040_Group04_Step04_TalkToCharacter01_StepDescription", "她就在那！去和米妮交談。"
 "Village!Mickey!Mickey!VLG_Mick_040_Group04_StoryDescription", "你剛準備好小屋，米妮就出現了。是時候迎接她回村了。"

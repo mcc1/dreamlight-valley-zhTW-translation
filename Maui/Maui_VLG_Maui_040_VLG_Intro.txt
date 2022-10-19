@@ -2,5 +2,5 @@
 "Player_000_choice_000_f", "我們來看看吧。"
 "Player_000_choice_001_f", "我還趕時間呢。不過我很快就回來。"
 "Maui_004_f", "好吧，我們要小心地打開這塊石頭，不破壞裡面的東西。"
-"Maui_006_f", "我有一些不用的<ActivityItem>刮痧石</ActivityItem>，可以給你的鎬頭用。這能幫你清理<ActivityItem>石灰巖</ActivityItem>的外殼。"
+"Maui_006_f", "我有一些不用的<ActivityItem>刮痧石</ActivityItem>，可以給你的鎬子用。這能幫你清理<ActivityItem>石灰巖</ActivityItem>的外殼。"
 "Maui_005_f", "好啊，隨時回來都行。我反正不會死……所以等等也沒關係。"

@@ -1,7 +1,7 @@
 "tab_title_collection", "收藏"
 "tab_title_cooking", "烹飪"
 "tab_title_fishing", "釣魚"
-"tab_title_foraging", "搜尋"
+"tab_title_foraging", "採集物"
 "tab_title_gardening", "園藝"
 "tab_title_mining", "採礦"
 "tab_title_social", "社交"

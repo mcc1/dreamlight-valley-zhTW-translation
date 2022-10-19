@@ -1,4 +1,3 @@
-"Player_000_choice_004_f", "我們給她建個房子吧。(使用{UpgradePrice}<sprite="iconCurrencySoft" index=0>)"
 "Scrooge_000_f", "我保證史高治建築公司會為你建一棟非常適合我們親愛的米妮的房子。"
 "Player_000_choice_000_f", "我們給她建個房子吧。(使用{UpgradePrice}<sprite="iconCurrencySoft" index=0>)"
 "Player_000_choice_001_f", "也許以後再說。"

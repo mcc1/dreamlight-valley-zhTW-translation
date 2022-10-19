@@ -2,5 +2,5 @@
 "Donald_001_f", "一堆機械玩具和小發明……"
 "Donald_002_f", "*呼呼* 我想起來了！我想為村莊建一座噴泉！"
 "Donald_004_f", "啊，但還缺少了一部分。而且就算我都想起來，我也不知道該怎麼修建。好吧……"
-"Donald_005_f", "把那個<ActivityItem>夢幻星光放大鏡</ActivityItem>給我。我拿去還給米奇。"
+"Donald_005_f", "把那個<ActivityItem>夢幻星光放大器</ActivityItem>給我。我拿去還給米奇。"
 "Donald_003_f", "謝謝你，唐老鴨。"

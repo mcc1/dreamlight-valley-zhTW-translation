@@ -7,6 +7,7 @@
 "label_not_here_today", "今天沒有"
 "label_recipe", "配方"
 "label_schedule", "出現時間："
+"label_tooltip_lock", "解鎖以獲取更多詳情"
 "label_unlock_at_friendship", "需達到友誼等級"
 "label_where_to_buy", "購買地點"
 "label_where_to_find", "尋找地點"

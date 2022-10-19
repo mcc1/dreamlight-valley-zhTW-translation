@@ -4,7 +4,7 @@
 "Story!MRQS050_MeetMickey_DisplayName", "米奇的記憶"
 "Story!MRQS050_MeetMickey_Group01_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>我該怎麼做？"
 "Story!MRQS050_MeetMickey_Group01_Step01_StepDescription", "你找到了食譜！"
-"Story!MRQS050_MeetMickey_Group01_Step01_Unlock01_StepDescription", "使用揹包裡的<ActivityItem>水果沙拉食譜</ActivityItem>"
+"Story!MRQS050_MeetMickey_Group01_Step01_Unlock01_StepDescription", "使用背包裡的<ActivityItem>水果沙拉食譜</ActivityItem>"
 "Story!MRQS050_MeetMickey_Group01_StoryDescription", "你不僅找到了<ActivityItem>水果沙拉</ActivityItem>的食譜，還發現了新工具：鏟子！"
 "Story!MRQS050_MeetMickey_Group02_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>如何找到食譜？"
 "Story!MRQS050_MeetMickey_Group02_Step02_Possess01_StepDescription", "搜尋區域找到食譜"

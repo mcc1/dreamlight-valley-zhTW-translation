@@ -1,2 +1,2 @@
-"Player_000_choice_000_f", "我們來把船修好吧。（使用{UpgradePrice}<sprite="iconCurrencySoft" index=0>。）"
+"Player_000_choice_000_f", "我們來把船修好吧。（使用<nobr>{UpgradePrice} <sprite="iconCurrencySoft" index=0>）</nobr>"
 "Player_000_choice_001_f", "下次吧。"

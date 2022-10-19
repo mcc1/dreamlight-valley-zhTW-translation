@@ -1,4 +1,4 @@
-"Merlin_001_f", "{PlayerName}，很高興你來找我！我有了一個神奇的發現！"
+"Merlin_001_f", "{PlayerName}，很高興你來找我！我有一個神奇的發現！"
 "Merlin_008_f", "你有時間聽聽嗎？"
 "Player_000_choice_003_f", "有，我準備好了！"
 "Player_000_choice_004_f", "現在不行。我得走了！"

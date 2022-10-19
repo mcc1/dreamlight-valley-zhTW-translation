@@ -1,1 +1,1 @@
-"Elsa_000_f", "我們去冰窟裡的大冰塊上試試你的<ActivityItem>鎬頭</ActivityItem>吧。"
+"Elsa_000_f", "我們去冰窟裡的大冰塊上試試你的<ActivityItem>鎬子</ActivityItem>吧。"

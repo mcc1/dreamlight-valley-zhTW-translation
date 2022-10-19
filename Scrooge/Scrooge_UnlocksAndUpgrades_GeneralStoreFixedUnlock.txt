@@ -1,5 +1,5 @@
 "Scrooge_000_f", "準備好投資了？等我的商店開張，就會有琳瑯滿目的家具和服裝出售。你大可相信我，不然我就不叫史高治！"
-"Player_000_choice_000_f", "我們來開店吧。(使用{UpgradePrice}<sprite="iconCurrencySoft" index=0>)"
+"Player_000_choice_000_f", "開店。（使用<nobr>{UpgradePrice} <sprite="iconCurrencySoft" index=0>）</nobr>"
 "Player_000_choice_001_f", "我下次再來吧。"
 "Scrooge_001_f", "終於盛大開業了！"
 "Scrooge_004_f", "哎呀！你的星幣不夠開店！等你攢夠錢再來吧，{PlayerName}。"

@@ -1,0 +1,2 @@
+"Scar_000_f", "{PlayerName}，太讚了。"
+"Player_000_exit_000_f", "我該走了。"

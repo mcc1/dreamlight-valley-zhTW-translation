@@ -15,7 +15,7 @@
 "Anna_011_f", "<ActivityItem>我們需要一些<ActivityItem>嶙峋石</ActivityItem>、<ActivityItem>奧勒岡</ActivityItem>和<ActivityItem>羅勒</ActivityItem>。那氣味應該能夠瞬間喚醒我們的巨人朋友。"
 "Anna_016_f", "我確信，只要我們<Lore>在這附近找找</Lore>，就肯定能找到<ActivityItem>嶙峋石</ActivityItem>。"
 "Anna_013_f", "不過剩下的原料可能要<Lore>去別處找</Lore>。"
-"Anna_017_f", "等把原料收集齊，我們就可以<Lore>製作<ActivityItem>石頭湯</ActivityItem></Lore>，然後<Lore>將它放在大地巨人腳邊的巖石上。</Lore>"
+"Anna_017_f", "等把原料收集齊，我們就可以<Lore>製作<ActivityItem>石頭湯</ActivityItem></Lore>，然後<Lore>將它放在大地巨人腳邊的岩石上。</Lore>"
 "Anna_015_f", "我不知道。但如果我們做的東西味道足夠強烈，能吸引它的注意力，也許就沒關係了。咱們試試吧……"
 "Anna_004_f", "噢噢噢！先別睡。"
 "Anna_006_f", "我們要去拯救森林。"

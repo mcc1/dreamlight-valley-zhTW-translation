@@ -1,5 +1,5 @@
 "Scrooge_000_f", "小機器人看起來有點緊張。不過別擔心。我們很快就能給他建一個溫馨的家。有史高治建築公司在，一切都不成問題。"
-"Player_000_choice_004_f", "為瓦力做一些事情！(使用{UpgradePrice}<sprite="iconCurrencySoft" index=0>)"
+"Player_000_choice_004_f", "為瓦力做一些事情！（使用<nobr>{UpgradePrice} <sprite="iconCurrencySoft" index=0>）</nobr>"
 "Player_000_choice_005_f", "或許以後再說。"
 "Scrooge_002_f", "哈，我們的小機器人朋友需要的東西都準備好了！有了瓦力的花園，星谷的經濟也會蓬勃發展。"
 "Scrooge_001_f", "哎呀！你的星幣不夠，無法購買該房產！等你攢夠錢再來吧，{PlayerName}。"

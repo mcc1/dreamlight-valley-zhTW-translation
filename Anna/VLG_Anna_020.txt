@@ -20,7 +20,7 @@
 "Village!Frozen!Anna!VLG_Anna_020_Group05_OngoingRequestButton", "接下來怎麼辦？"
 "Village!Frozen!Anna!VLG_Anna_020_Group05_Step05_CraftItem01_StepDescription", "在製作臺修理{itemName}"
 "Village!Frozen!Anna!VLG_Anna_020_Group06_OngoingRequestButton", "我能做些什麼？"
-"Village!Frozen!Anna!VLG_Anna_020_Group06_Step06_BringItem02_StepDescription", "確保你的揹包中有{ItemName}"
+"Village!Frozen!Anna!VLG_Anna_020_Group06_Step06_BringItem02_StepDescription", "確保你的背包中有{ItemName}"
 "Village!Frozen!Anna!VLG_Anna_020_Group06_Step06_ReadyDescription", "把{ItemName}交給安娜"
 "Village!Frozen!Anna!VLG_Anna_020_Group07_OngoingRequestButton", "我們要做些什麼？"
 "Village!Frozen!Anna!VLG_Anna_020_Group07_Step07_Listen02_StepDescription", "安娜把登山裝備交給克里斯托夫時在旁聆聽"

@@ -1,5 +1,5 @@
 "Scrooge_000_f", "小米雖然只是個小廚師，但他有絕佳的品味和極高的期望！如果想建一座符合他標準的房子，你需要付一大筆錢。"
-"Player_000_choice_000_f", "為小老鼠修建一座大房子！(使用{UpgradePrice}<sprite="iconCurrencySoft" index=0>)"
+"Player_000_choice_000_f", "為小老鼠修建一座大房子！（使用<nobr>{UpgradePrice} <sprite="iconCurrencySoft" index=0>）</nobr>"
 "Player_000_choice_001_f", "我稍後再來。"
 "Scrooge_003_f", "星谷有了廚師之後，經濟肯定會蒸蒸日上。"
 "Scrooge_002_f", "哎呀！你的星幣不夠，無法購買該房產！等你攢夠錢再來吧，{PlayerName}。"

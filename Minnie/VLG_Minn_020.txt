@@ -20,7 +20,7 @@
 "Village!Mickey!Minnie!VLG_Minn_020_Group09_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>我們應該去哪兒？"
 "Village!Mickey!Minnie!VLG_Minn_020_Group09_StepDescription", "跟漂浮的<ActivityItem>閃光包裹</ActivityItem>互動"
 "Village!Mickey!Minnie!VLG_Minn_020_Group10_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>我們要去哪裡？"
-"Village!Mickey!Minnie!VLG_Minn_020_Group10_StepDescription", "使用<ActivityItem>夢幻星光放大鏡</ActivityItem>調查勇氣森林，尋找另一段遺失的<ActivityItem>回憶</ActivityItem>"
+"Village!Mickey!Minnie!VLG_Minn_020_Group10_StepDescription", "使用<ActivityItem>夢幻星光放大器</ActivityItem>調查勇氣森林，尋找另一段遺失的<ActivityItem>回憶</ActivityItem>"
 "Village!Mickey!Minnie!VLG_Minn_020_Group11_Step11_TalkToCharacter04_StepDescription", "和米妮交談"
 "Village!Mickey!Minnie!VLG_Minn_020_Group12_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>我們要做什麼？"
 "Village!Mickey!Minnie!VLG_Minn_020_Group12_StepDescription", "跟米妮一起去看米奇"

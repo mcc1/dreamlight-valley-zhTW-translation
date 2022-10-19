@@ -22,6 +22,6 @@
 "Village!Frozen!Kristoff!VLG_Kris_020_Group05_Step05_Decorate01_StepDescription", "把<ActivityItem>魔法冰塊</ActivityItem>放在村裡的某個地方"
 "Village!Frozen!Kristoff!VLG_Kris_020_Group05_StoryDescription", "艾莎製作了一個藏著記憶的冰塊。你需要把裡面的記憶釋放出來。"
 "Village!Frozen!Kristoff!VLG_Kris_020_Group06_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>雕刻冰塊"
-"Village!Frozen!Kristoff!VLG_Kris_020_Group06_Step06_RemoveBlocker01_StepDescription", "用你的鎬頭雕刻<ActivityItem>魔法冰塊</ActivityItem>"
+"Village!Frozen!Kristoff!VLG_Kris_020_Group06_Step06_RemoveBlocker01_StepDescription", "用你的鎬子雕刻<ActivityItem>魔法冰塊</ActivityItem>"
 "Village!Frozen!Kristoff!VLG_Kris_020_Group06_StoryDescription", "接下來我們只能期望克里斯托夫看到這個雕像能想起一些事情。"
 "Village!Frozen!Kristoff!VLG_Kris_020_StartRequestButton", "<smallcaps>{title}</smallcaps><br>怎麼了？"
