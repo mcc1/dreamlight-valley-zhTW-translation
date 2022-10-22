@@ -475,7 +475,7 @@
 "ftue_or", "或"
 "ftue_pickaxe_desc", "使用{input_usetool}開採和移除障礙物"
 "ftue_pickaxe_title", "岩石和礦物：鎬子"
-"ftue_pillar_note", "如果水被擋住了——<Lore>請接著看！！！</Lore><br><br>暗夜荊棘越來越多。但不要擔心，我知道如何阻止它們！<br><br>我不小心把一些<Lore>根汁汽水</Lore>濺到上面，它們竟然有點枯萎。<br><br>如果我們能做更多根汁汽水……並且使用這些<Lore>糖果讓它起泡……</Lore><br><br>……我敢說我們就能把暗夜荊棘連根拔起！<br><br>我把所有的材料都留在了<Lore>營地寶箱裡。</Lore><br><br>我只希望在我開始遺忘之前<Lore>把它們都放進這個桶裡</Lore>……<br>"
+"ftue_pillar_note", "如果水被擋住了——<Lore>請接著看！！！</Lore><br><br>暗夜荊棘越來越多。但不要擔心，我知道如何阻止它們！<br><br>我不小心把一些<Lore>麥根沙士</Lore>濺到上面，它們竟然有點枯萎。<br><br>如果我們能做更多麥根沙士……並且使用這些<Lore>糖果讓它起泡……</Lore><br><br>……我敢說我們就能把暗夜荊棘連根拔起！<br><br>我把所有的材料都留在了<Lore>營地寶箱裡。</Lore><br><br>我只希望在我開始遺忘之前<Lore>把它們都放進這個桶裡</Lore>……<br>"
 "ftue_plant_seeds", "通過採集或在高飛貨攤交易來獲得種子。"
 "ftue_realtime_synch_char_schedule", "角色將會按照自身的時間表行動，請多加留意！"
 "ftue_realtime_synch_daily", "記得每天回來，發現新的東西！"

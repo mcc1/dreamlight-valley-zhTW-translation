@@ -20,7 +20,7 @@
 "Story!MRQS100_TakingCareOfThings_Group08_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>我該怎麼做？"
 "Story!MRQS100_TakingCareOfThings_Group08_StepDescription", "在烹飪臺準備{ItemName}"
 "Story!MRQS100_TakingCareOfThings_Group09_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>我該怎麼做？"
-"Story!MRQS100_TakingCareOfThings_Group09_Step09_FillKeyhole02_StepDescription", "把<ActivityItem>多泡根汁汽水</ActivityItem>和<ActivityItem>跳跳糖</ActivityItem>放進桶裡"
+"Story!MRQS100_TakingCareOfThings_Group09_Step09_FillKeyhole02_StepDescription", "把<ActivityItem>多泡麥根沙士</ActivityItem>和<ActivityItem>跳跳糖</ActivityItem>放進桶裡"
 "Story!MRQS100_TakingCareOfThings_Group09_StepDescription", "清理礦區中阻斷水源的暗夜荊棘根系"
 "Story!MRQS100_TakingCareOfThings_Group09_StoryDescription", "在維塔利礦區中，你發現暗夜荊棘的根阻斷了河流。你要準備氣泡很多的混合物來清理暗夜荊棘。"
 "Story!MRQS100_TakingCareOfThings_Group10_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>我該怎麼做？"
