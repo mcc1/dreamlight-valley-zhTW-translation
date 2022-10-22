@@ -1,5 +1,5 @@
 "Realm!Moana!Maui!RLM_MoanaIP_Maui_020_Any_CompletedRequestDescription", "毛伊在村莊裡。聽聽他對夢幻星谷的看法吧。"
-"Realm!Moana!Maui!RLM_MoanaIP_Maui_020_AvailableDescription", "毛伊對莫阿娜的離開很生氣。你決定和他談談。"
+"Realm!Moana!Maui!RLM_MoanaIP_Maui_020_AvailableDescription", "毛伊對莫娜的離開很生氣。你決定和他談談。"
 "Realm!Moana!Maui!RLM_MoanaIP_Maui_020_CompletedStoryDescription", "已確保毛伊的生活條件完美無缺，是時候迎接他的到來了。"
 "Realm!Moana!Maui!RLM_MoanaIP_Maui_020_DisplayName", "半神的盛宴"
 "Realm!Moana!Maui!RLM_MoanaIP_Maui_020_Group01_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>你需要什麼？"

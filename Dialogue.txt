@@ -301,7 +301,7 @@
 "Moana!Moana!Discussion_002_DisplayName_f", "咱們來聊聊大自然吧。"
 "Moana!Moana!Discussion_003_DisplayName_f", "你有問題嗎？"
 "Moana!Moana!Discussion_005_DisplayName_f", "跟我講講莫圖努伊島上的食物吧？"
-"Moana!Moana!Discussion_007_DisplayName_f", "你還好嗎，莫阿娜？"
+"Moana!Moana!Discussion_007_DisplayName_f", "你還好嗎，莫娜？"
 "Moana!Moana!Discussion_008_DisplayName_f", "你一直想去遠航嗎？"
 "Moana!Moana!Discussion_009_DisplayName_f", "你今天就要起航嗎？"
 "Moana!Moana!Discussion010_DisplayName_f", "你在想什麼？"
