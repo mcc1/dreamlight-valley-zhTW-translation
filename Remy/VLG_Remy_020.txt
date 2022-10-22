@@ -9,7 +9,7 @@
 "Village!Ratatouille!Remy!VLG_Remy_020_Group03_Step03_Unlock01_StepDescription", "檢查米奇給你的清單"
 "Village!Ratatouille!Remy!VLG_Remy_020_Group03_StoryDescription", "米奇把食譜書藏在了星谷各處，不過留了一張記錄著藏匿地點的清單。他把這張清單給你了。"
 "Village!Ratatouille!Remy!VLG_Remy_020_Group04_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>你需要什麼？"
-"Village!Ratatouille!Remy!VLG_Remy_020_Group04_Step04_BringItem02_StepDescription", "去美食總動員王國看少了什麼"
+"Village!Ratatouille!Remy!VLG_Remy_020_Group04_Step04_BringItem02_StepDescription", "去料理鼠王王國看少了什麼"
 "Village!Ratatouille!Remy!VLG_Remy_020_Group04_Step04_ReadyDescription", "把<ActivityItem>一袋花生</ActivityItem>交給小米。"
 "Village!Ratatouille!Remy!VLG_Remy_020_Group04_StoryDescription", "四處尋找一陣後，你找到了一些食譜書，交到了它們的主人手裡。接著小米要你去他的地盤拿些<ActivityItem>花生</ActivityItem>。"
 "Village!Ratatouille!Remy!VLG_Remy_020_Group05_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>接下來怎麼做呢？"
