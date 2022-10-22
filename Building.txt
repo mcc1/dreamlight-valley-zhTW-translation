@@ -36,7 +36,7 @@
 "Merlin_House_DisplayName", "夢幻星光圖書館"
 "Mickey_House_DisplayName", "米奇的小屋"
 "Minnie_House_DisplayName", "米妮的小屋"
-"Moana_House_DisplayName", "莫阿娜的小屋"
+"Moana_House_DisplayName", "莫娜的小屋"
 "PlateauMine_DisplayName", "{Placeholder}Plateau Mine"
 "Player_Castle_DisplayName", "你的小屋"
 "PowerBeachCave_DisplayName", "神秘洞穴"
