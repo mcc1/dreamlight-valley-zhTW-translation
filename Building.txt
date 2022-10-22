@@ -17,7 +17,7 @@
 "FastTravelWell!06Savana_DisplayName", "日照高原許願井"
 "FastTravelWell!07Cliffs_DisplayName", "霜寒高地許願井"
 "FastTravelWell!08DarkMountains_DisplayName", "遺忘之地許願井"
-"Fishing_Stall_DisplayName", "莫阿娜的漁船"
+"Fishing_Stall_DisplayName", "莫娜的漁船"
 "FruitTreeGarden_DisplayName", "果樹"
 "FruitTreeGarden_NoStructure_DisplayName", "沒有圍沿的果樹"
 "Gardening_Stall1_Urban_DisplayName", "高飛的貨攤"
