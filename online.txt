@@ -1,11 +1,11 @@
 "acclink_conflict_ingame_uselocal_confirm_message", "確定要保留本地存檔嗎？
 雲端存檔將被本地存檔覆蓋！"
 "acclink_conflict_ingame_uselocal_confirm_title", "確認保留本地存檔"
-"acclink_conflict_ingame_autopick_server_message", "在雲端發現了一個更新的檔案版本。你將重新轉到主。"
+"acclink_conflict_ingame_autopick_server_message", "在雲端發現了一個更新的檔案版本。你將重新轉到主選單。"
 "acclink_conflict_ingame_autopick_server_title", "自動選擇伺服器雲端存檔"
 "acclink_conflict_recommended_label", "推薦"
 "acclink_conflict_ingame_useremote_confirm_message", "確定要保留雲端存檔嗎？
-本地存檔將被雲端存檔覆蓋，您將會跳轉至主。"
+本地存檔將被雲端存檔覆蓋，您將會跳轉至主選單。"
 "acclink_conflict_ingame_useremote_confirm_title", "確認保留雲端存檔"
 "acclink_conflict_keep_local", "保留本地存檔"
 "acclink_conflict_keep_remote", "保留雲端存檔"
@@ -26,7 +26,7 @@
 "acclink_create_account_unknown_error", "無法建立帳號，出現未知錯誤。"
 "acclink_create_email_account_success", "請輸入發送到{glemail}的驗證碼以完成帳號建立。"
 "acclink_create_email_account_title", "建立帳號"
-"acclink_email_auto_login_failed_prompt", "你的信箱帳號登錄失敗。請前往雲端存檔，確認您的證書為最新後再次嘗試。"
+"acclink_email_auto_login_failed_prompt", "你的信箱帳號登錄失敗。請前往雲端存檔選單，確認您的證書為最新後再次嘗試。"
 "acclink_email_login_failed_label", "要保持雲端存檔同步，請重新輸入密碼。"
 "acclink_logged_email_desc", "您可以使用該信箱登錄其他裝置並使用雲端存檔。"
 "acclink_login_account_desc", "您必須登錄才能同步至雲端存檔。"
@@ -36,10 +36,10 @@
 "acclink_login_different_profile_download_error", "下載雲端存檔失敗。"
 "acclink_login_different_profile_title", "檢測到不同帳號"
 "acclink_login_different_profile_useremote_confirm_desc", "確定要使用此信箱帳號登錄嗎？
-您將會跳轉至主。
+您將會跳轉至主選單。
 之後可通過退出登錄來恢復本地存檔。"
 "acclink_login_different_profile_useremote_confirm_soft_lost_desc", "確定要使用此信箱帳號登錄嗎？
-您將會跳轉至主。
+您將會跳轉至主選單。
 只要沒有解除安裝遊戲，之後還可恢復本地存檔。"
 "acclink_login_different_profile_useremote_confirm_title", "信箱登錄確認"
 "acclink_login_email_account", "登錄"
@@ -103,7 +103,7 @@
 "cpprofile_conflict_title", "恢復客服端存檔"
 "ccprofile_conflict_ingame_uselocal_confirm_title", "確認保留本地存檔"
 "ccprofile_conflict_ingame_usecc_confirm_message", "確定要使用客服端存檔嗎？
-目前存檔將會丟失，您將會跳轉至主。"
+目前存檔將會丟失，您將會跳轉至主選單。"
 "ccprofile_conflict_ingame_usecc_confirm_title", "確認保留客服端存檔"
 "ccprofile_conflict_ingame_uselocal_confirm_message", "確定要保留本地存檔嗎？
 客服端存檔將不會使用！"

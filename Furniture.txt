@@ -70,7 +70,7 @@
 "01_Mickey!Setless!Latrine01_DisplayName", "外屋"
 "01_Mickey!Setless!Mailbox01_DisplayName", "郵筒"
 "01_Mickey!Setless!MickeyPumpkin01_DisplayName", "米奇傑克南瓜燈"
-"01_Mickey!Setless!MickeyPumpkin02_DisplayName", "{Placeholder}Mickey Mouse Pumpkin"
+"01_Mickey!Setless!MickeyPumpkin02_DisplayName", "米奇南瓜"
 "01_Mickey!Setless!PartyBanner01_DisplayName", "派對橫幅"
 "01_Mickey!Setless!Photoframe06_DisplayName", "方形相框"
 "01_Mickey!Setless!Photoframe07_DisplayName", "圓形相框"
