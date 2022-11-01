@@ -14,7 +14,7 @@
 "Story!MRQS020_Castle_Group05_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>如何收集夢幻星光？"
 "Story!MRQS020_Castle_Group05_Step06_Possess02_StepDescription", "收集{ItemName}來打開夢幻城堡"
 "Story!MRQS020_Castle_Group05_Step11_RoyalDuties01_StepDescription", "完成<ActivityItem>夢幻星光任務</ActivityItem>。"
-"Story!MRQS020_Castle_Group05_Step11_StepDescription", "(通過許願井或按{input_mainmenu}來進入夢幻星光菜單。)"
+"Story!MRQS020_Castle_Group05_Step11_StepDescription", "(通過許願井或按{input_mainmenu}來進入夢幻星光。)"
 "Story!MRQS020_Castle_Group05_StoryDescription", "梅林向你展示了村裡夢幻星光的來源：許願井。他鼓勵你研究一下，找出哪些活動會產生夢幻星光，因為你需要收集夢幻星光來打開夢幻城堡。"
 "Story!MRQS020_Castle_Group06_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>我應該去哪兒找米奇？"
 "Story!MRQS020_Castle_Group06_Step05_Conditional02_StepDescription", "去米奇的小屋找米奇"

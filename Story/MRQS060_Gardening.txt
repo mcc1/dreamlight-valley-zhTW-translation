@@ -24,7 +24,7 @@
 "Story!MRQS060_Gardening_Group08_StoryDescription", "搞定園藝之後，你準備學習如何製作美食。就從做<ActivityItem>水果沙拉</ActivityItem>和<ActivityItem>薄脆餅乾</ActivityItem>開始吧？"
 "Story!MRQS060_Gardening_Group09_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>我該怎麼做？"
 "Story!MRQS060_Gardening_Group09_Step09_Decorate01_StepDescription", "把烤箱放進你的小屋裡"
-"Story!MRQS060_Gardening_Group09_StepDescription", "烤箱屬於家具。(使用{input_inventory}打開背包並找到家具菜單。)"
+"Story!MRQS060_Gardening_Group09_StepDescription", "烤箱屬於家具。(使用{input_inventory}打開背包並找到家具。)"
 "Story!MRQS060_Gardening_Group10_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>在哪裡可以找到<ActivityItem>蘋果</ActivityItem>？"
 "Story!MRQS060_Gardening_Group10_Step10_Possess01_StepDescription", "{ItemName}"
 "Story!MRQS060_Gardening_Group10_Step10_Possess02_StepDescription", "{ItemName}"
