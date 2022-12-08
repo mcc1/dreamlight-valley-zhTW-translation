@@ -1,0 +1,1 @@
+"Buzz_000_f", "學員，你的任務很簡單。找齊材料後，就製作<ActivityItem>海軍藍染料</ActivityItem>。"

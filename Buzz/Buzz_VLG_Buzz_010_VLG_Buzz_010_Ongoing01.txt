@@ -1,0 +1,2 @@
+"Buzz_000_f", "要建造<ActivityItem>太空騎警飛船</ActivityItem>，你需要收集材料。"
+"Buzz_001_f", "一些<ActivityItem>玻璃</ActivityItem>、<ActivityItem>硬木</ActivityItem>，還有<ActivityItem>鐵塊</ActivityItem>。"

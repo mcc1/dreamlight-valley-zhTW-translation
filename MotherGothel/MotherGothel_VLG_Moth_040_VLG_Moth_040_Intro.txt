@@ -8,7 +8,7 @@
 "Player_001_choice_001_f", "你發現了什麼？"
 "Player_001_choice_002_f", "說重點……"
 "MotherGothel_010_f", "這就是為什麼我最喜歡你。"
-"MotherGothel_012_f", "<ActivityItem>太陽捲軸</ActivityItem>和神秘洞穴裡的符號都沒說怎麼把<ActivityItem>太陽石</ActivityItem>拼回去……"
+"MotherGothel_012_f", "<ActivityItem>太陽卷軸</ActivityItem>和神秘洞穴裡的符號都沒說怎麼把<ActivityItem>太陽石</ActivityItem>拼回去……"
 "MotherGothel_001_f", "也沒說如果<ActivityItem>碎片</ActivityItem>變暗該怎麼辦。但我被難住了嗎？當然沒有。"
 "MotherGothel_003_f", "我發現<ActivityItem>太陽石</ActivityItem>的中心一定是由太陽的一部分構成。這正是我們需要的。"
 "Player_000_choice_012_f", "我要飛向太陽了嗎？"

@@ -1,0 +1,4 @@
+"Story!ORQS_Mer_010_Buffs_AvailableDescription", "梅林一直窩在圖書館裡，研究你在日照高原的礦洞裡挖出的維塔利水晶。經過幾天的辛苦研究，他現在已經有答案了，他想把他的發現告訴你。"
+"Story!ORQS_Mer_010_Buffs_CompletedStoryDescription", "通過大量的研究，梅林告訴你了幾種增強你皇家工具的辦法。如果你想要一試究竟，那就去製作臺上看看吧。"
+"Story!ORQS_Mer_010_Buffs_Group01_Step01_TalkToCharacter01_StepDescription", "與梅林交談。"
+"Story!ORQS_Mer_010_Buffs_Group01_StepDescription", "梅林有重要的事告訴你！"

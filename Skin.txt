@@ -1,1 +1,5 @@
 "LilMermaid!Ariel!Human_DisplayName", "愛麗兒人類形態"
+"Mickey!Mickey!Winter_DisplayName", "快樂米奇"
+"SwordStone!Merlin!Winter_DisplayName", "節日梅林"
+"ToyStory!Buzz!AvatarSize_DisplayName", "{placeholder}Buzz's Avatar Size"
+"ToyStory!Woody!AvatarSize_DisplayName", "{placeholder}Woody's Avatar Size"

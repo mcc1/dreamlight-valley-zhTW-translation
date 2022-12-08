@@ -1,5 +1,5 @@
-"Scrooge_000_f", "謝謝你，{PlayerName}。這就是你找到<ActivityItem>捲軸</ActivityItem>需要的所有資訊。"
+"Scrooge_000_f", "謝謝你，{PlayerName}。這就是你找到<ActivityItem>卷軸</ActivityItem>需要的所有資訊。"
 "Scrooge_001_f", "在「大遺忘」發生之前，我就把它藏在村莊裡了。雖然我記不清具體情況，但我相信你會找到它的。"
-"Scrooge_008_f", "炫麗海灘上有一個洞穴，我把捲軸放在了那附近上鎖的箱子裡，但我記不清具體是哪個箱子了。"
+"Scrooge_008_f", "炫麗海灘上有一個洞穴，我把卷軸放在了那附近上鎖的箱子裡，但我記不清具體是哪個箱子了。"
 "Scrooge_002_f", "至於開箱的鑰匙，你需要從林地的池塘裡釣出來，就是有廢墟的那片林地。"
 "Scrooge_003_f", "祝你尋寶愉快，{PlayerName}。再次感謝你找到<ActivityItem>麥克莓樹<ActivityItem>！"

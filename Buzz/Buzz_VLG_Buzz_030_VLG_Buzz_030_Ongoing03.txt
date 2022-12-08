@@ -1,0 +1,2 @@
+"Buzz_001_f", "刀疤不可能說實話的，但我們別無選擇。如果我們想讓他開口，我們得給他帶些食物去。"
+"Buzz_002_f", "他好像想要<ActivityItem>魚湯</ActivityItem>和<ActivityItem>鐵火卷</ActivityItem>。"

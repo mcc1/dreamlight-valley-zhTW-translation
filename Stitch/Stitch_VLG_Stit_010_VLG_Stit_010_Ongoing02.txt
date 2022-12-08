@@ -1,0 +1,3 @@
+"Stitch_000_f", "你教史迪奇怎麼修理標誌。你的善良等級提升了。"
+"Stitch_001_f", "我們需要些什麼？"
+"Stitch_002_f", "我們需要收集<ActivityItem>硬木</ActivityItem>、<ActivityItem>軟木</ActivityItem>和那些<ActivityItem>被破壞的標誌</ActivityItem>。"

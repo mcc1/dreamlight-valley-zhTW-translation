@@ -1,0 +1,2 @@
+"Stitch_000_f", "你想給史迪奇拍照？沒問題！"
+"Stitch_001_f", "只不過我得先找到材料來做這些<ActivityItem>照片背景牆</ActivityItem>。"

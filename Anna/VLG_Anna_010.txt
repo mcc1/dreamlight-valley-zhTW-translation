@@ -14,7 +14,6 @@
 "Village!Frozen!Anna!VLG_Anna_010_Group04_Step04_Possess01_StepDescription", "{itemName}"
 "Village!Frozen!Anna!VLG_Anna_010_Group04_Step04_Possess02_StepDescription", "{itemName}"
 "Village!Frozen!Anna!VLG_Anna_010_Group04_Step04_Possess03_StepDescription", "{itemName}"
-"Village!Frozen!Anna!VLG_Anna_010_Group04_Step04_Possess04_StepDescription", "{itemName}"
 "Village!Frozen!Anna!VLG_Anna_010_Group04_Step04_StepDescription", "收集材料來升級你的鏟子："
 "Village!Frozen!Anna!VLG_Anna_010_Group05_OngoingRequestButton", "我們現在要做什麼？"
 "Village!Frozen!Anna!VLG_Anna_010_Group05_Step05_CraftItem01_StepDescription", "在製作臺製作{itemName}"

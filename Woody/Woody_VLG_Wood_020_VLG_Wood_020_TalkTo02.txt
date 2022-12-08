@@ -1,0 +1,4 @@
+"Woody_000_f", "唔，拍照機和力量測試機都有點冒煙，但看起來最大的問題是抓娃娃機……"
+"Woody_003_f", "完全是一團糟。"
+"Woody_001_f", "到處都是<ActivityItem>抓娃娃機部件</ActivityItem>和<ActivityItem>外星人玩具</ActivityItem>。"
+"Woody_002_f", "我要把它們全都撿起來。"

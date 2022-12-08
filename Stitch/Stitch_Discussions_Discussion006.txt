@@ -1,0 +1,8 @@
+"Stitch_000_f", "嗨，{PlayerName}！史迪奇打算跳草裙舞！"
+"Stitch_001_f", "舞蹈是關於什麼的？"
+"Player_000_choice_001_f", "鮮花。"
+"Player_000_choice_002_f", "家。"
+"Stitch_003_f", "是的！史迪奇的家人喜歡鮮花。"
+"Stitch_006_f", "鮮花草裙舞很好。鮮花代表家人！"
+"Stitch_004_f", "好！史迪奇有個很好的家。雖然小但很溫馨。"
+"Stitch_005_f", "我要跳關於<font="JosefinSans-MediumItalic SDF">歐哈那</font>的草裙舞——歐哈那就是我的家。"

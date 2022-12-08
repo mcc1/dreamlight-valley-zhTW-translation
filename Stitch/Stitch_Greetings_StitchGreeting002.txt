@@ -1,0 +1,2 @@
+"Stitch_000_f", "Acoota!"
+"Player_000_exit_000_f", "一會兒再說。"

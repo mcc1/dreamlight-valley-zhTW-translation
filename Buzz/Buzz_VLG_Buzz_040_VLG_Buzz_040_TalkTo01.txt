@@ -1,0 +1,6 @@
+"Buzz_000_f", "很高興我和烏蘇拉消除了誤會。"
+"Buzz_002_f", "{PlayerName}，這趟旅程給了我一個想法……"
+"Buzz_001_f", "我們應該開辦一所星級總部學院來訓練其他星谷的守護者——不管他們過去是英雄還是壞蛋。"
+"Buzz_017_f", "我們就從……三名學員開始吧。當然，他們需要<ActivityItem>太空騎警徽章</ActivityItem>……事實上，這是你的下一個任務！"
+"Buzz_018_f", "在製作<ActivityItem>太空騎警徽章</ActivityItem>之前，你需要製作<ActivityItem>藍墨水</ActivityItem>。材料很容易找到。我相信你肯定沒問題。"
+"Buzz_021_f", "<ActivityItem>徽章</ActivityItem>做好了向我報告。我來想想我們應該招募誰。"

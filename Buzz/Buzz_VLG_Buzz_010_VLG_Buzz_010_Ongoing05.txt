@@ -1,0 +1,2 @@
+"Buzz_000_f", "看來史高治給了一份做制服需要的材料清單。你需要<ActivityItem>海軍藍染料</ActivityItem>……"
+"Buzz_002_f", "染料需要<ActivityItem>藍色低垂釣鐘柳</ActivityItem>，一些<ActivityItem>藍莓</ActivityItem>和<ActivityItem>煤</ActivityItem>。"

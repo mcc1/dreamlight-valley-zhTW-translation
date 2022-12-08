@@ -1,0 +1,2 @@
+"Buzz_000_f", "你有了<ActivityItem>紙</ActivityItem>以後，用我給你的<ActivityItem>黏合劑</ActivityItem>把它們和<ActivityItem>巴斯光年撲克牌</ActivityItem>粘起來。"
+"Buzz_001_f", "這樣我們的<ActivityItem>巴斯光年傳單<ActivityItem>就做好了。"

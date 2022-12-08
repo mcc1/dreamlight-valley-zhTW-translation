@@ -1,0 +1,5 @@
+"Buzz_000_f", "又圓滿完成一個任務，學員。"
+"Buzz_003_f", "你不在的時候，我給了小米第一個任務。他為歡迎儀式做了令人食指大動的<ActivityItem>自助餐</ActivityItem>。"
+"Buzz_002_f", "別擔心。肯定不止有空氣茶和空氣烤餅的。"
+"Buzz_001_f", "我需要你去放自助餐。你已經穿上<ActivityItem>制服</ActivityItem>了。很不錯。"
+"Buzz_004_f", "我需要你去放自助餐。歡迎儀式開始前別忘了穿上你的<ActivityItem>制服</ActivityItem>。"

@@ -1,0 +1,1 @@
+"Stitch_000_f", "史迪奇和{PlayerName}繼續冒險。但首先，{PlayerName}要穿上冒險裝備。"

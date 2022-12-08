@@ -1,3 +1,7 @@
+"BuzzClue01_DisplayName", "{Placeholder}BuzzClue01"
+"BuzzClue02_DisplayName", "{Placeholder}BuzzClue02"
+"BuzzClue03_DisplayName", "{Placeholder}BuzzClue03"
+"BuzzClue04_DisplayName", "{Placeholder}BuzzClue04"
 "DreamCastle_DisplayName", "夢幻城堡"
 "ElephantGraveyard_DisplayName", "大象墓地"
 "ElsaIceCavern_DisplayName", "艾莎的冰窟"

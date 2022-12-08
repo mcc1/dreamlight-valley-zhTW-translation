@@ -1,5 +1,5 @@
 "MotherGothel_000_f", "寶箱……和鑰匙……"
-"MotherGothel_003_f", "找到了！這就是<ActivityItem>太陽捲軸</ActivityItem>！"
+"MotherGothel_003_f", "找到了！這就是<ActivityItem>太陽卷軸</ActivityItem>！"
 "MotherGothel_001_f", "這讓我離找到<ActivityItem>太陽石</ActivityItem>又近了一步！為此我可是付出了巨大的努力。"
 "MotherGothel_002_f", "當然，你……也幫了不少忙，{PlayerName}。"
-"MotherGothel_004_f", "當我需要你幫忙的時候，我會找你的。現在，你走吧。我要研究<ActivityItem>捲軸</ActivityItem>。"
+"MotherGothel_004_f", "當我需要你幫忙的時候，我會找你的。現在，你走吧。我要研究<ActivityItem>卷軸</ActivityItem>。"

@@ -1,0 +1,8 @@
+"Ursula_000_f", "Hey, Ursula. Stitch is starting a band. I was wondering if you wanted to be part of it."
+"Player_000_choice_000_f", "You could be lead singer."
+"Player_000_choice_001_f", "You could do harmony vocals."
+"Player_000_choice_002_f", "You'd be a great drummer with all those tentacles."
+"Ursula_001_f", "Bah! Why would I waste my talents playing in a band with that nuisance?"
+"Ursula_002_f", "Ursula is a solo act, angelfish. And don't you forget it."
+"Ursula_003_f", "You want me to sing back up for that pest? Bah!"
+"Ursula_004_f", "You want me to be musical support for that creature's caterwauling? Not a chance."

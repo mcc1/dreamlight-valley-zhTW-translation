@@ -1,0 +1,2 @@
+"Stitch_000_f", "可以拍照了嗎？"
+"Stitch_001_f", "還不行。得先製作這個<ActivityItem>照片背景牆</ActivityItem>。"

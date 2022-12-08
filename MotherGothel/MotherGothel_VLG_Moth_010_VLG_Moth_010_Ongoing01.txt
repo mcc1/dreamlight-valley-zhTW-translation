@@ -1,2 +1,2 @@
 "MotherGothel_000_f", "現在一切就緒，該是那個傻瓜高飛發揮作用的時候了。"
-"MotherGothel_001_f", "設法讓他相信有人打算從他的好朋友史高治那裡偷走<ActivityItem>捲軸</ActivityItem>。"
+"MotherGothel_001_f", "設法讓他相信有人打算從他的好朋友史高治那裡偷走<ActivityItem>卷軸</ActivityItem>。"

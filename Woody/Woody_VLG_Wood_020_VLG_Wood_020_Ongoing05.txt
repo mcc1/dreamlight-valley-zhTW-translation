@@ -1,0 +1,2 @@
+"Woody_000_f", "唔……根據這張<ActivityItem>保險絲盒圖紙</ActivityItem>，我們需要<ActivityItem>玻璃</ActivityItem>、<ActivityItem>硬木</ActivityItem>，還有<ActivityItem>鐵塊</ActivityItem>。"
+"Woody_001_f", "另外，你還要去跟瓦力初次見面的地方，找到<ActivityItem>保險絲</ActivityItem>和<ActivityItem>電子元件</ActivityItem>。"

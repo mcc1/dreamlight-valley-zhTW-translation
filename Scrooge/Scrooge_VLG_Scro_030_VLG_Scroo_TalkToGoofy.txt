@@ -1,4 +1,4 @@
-"Goofy_004_f", "你好，{PlayerName}！我能幫你做什麼？"
+"Goofy_004_f", "你好，{PlayerName}！有什麼我能效勞的嗎？"
 "Player_000_f", "我想知道……"
 "Player_000_choice_000_f", "你最喜歡一年中的哪個日子？"
 "Player_000_choice_001_f", "草地上有多少個池塘？"

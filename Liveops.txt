@@ -1,8 +1,21 @@
+"ChristmasMini_Description", "您好，星谷居民！
+
+從12月18日至1月1日，整個星谷都將充滿節日氛圍。探索夢幻星谷裡的所有節日奧秘，完成限時成就，贏取專屬節日裝飾品。您的村莊很快將會變成冬日仙境。
+在12月25日一定要睜大眼睛哦！無論您是調皮搗蛋還是機靈乖巧，某個地方都將出現一棵特殊的樹木，您絕對想不到會在下面找到什麼驚喜。
+但不要忘記，付出才有回報！記得去製作臺，看看您能為村民們製作什麼特殊驚喜。
+不僅如此，村莊裡的水域也更加充滿樂趣。調查異象，您甚至會發現水裡的魚也在慶祝節日。"
+"ChristmasMini_Title", "慷慨回饋"
+"Compensation_Description", "親愛的星谷居民！
+
+爲了感謝您的支援，我們團隊要送給您一份小禮物。
+
+請盡情享受星谷時光，如有任何需要，請隨時聯繫我們的客服團隊。"
+"Compensation_Title", "有東西滯留在信箱裡：夢之碎片"
 "D23_Dreamlight_Description", "歡迎來到《迪士尼夢幻星谷》！
 
 穿上這件專屬D23運動衫，與你的迪士尼和皮克斯好友一起暢享魔法生活！"
 "D23_Dreamlight_Title", "D23專屬"
-"DreamshardsGift_Description", "你在信箱你翻找出了一些夢之碎片。
+"DreamshardsGift_Description", "你在信箱翻找出了一些夢之碎片。
 最好把它們好好儲存起來，以備不時之需。"
 "DreamshardsGift_Title", "有東西滯留在信箱裡：夢之碎片"
 "DreamshardsGift2_Description", "在稍後的遊戲中，你將遇到需要夢之碎片的任務。
@@ -11,6 +24,81 @@
 
 我們建議你把夢之碎片放在你屋子裡的箱子中，好好保管。"
 "DreamshardsGift2_Title", "明智地使用你的夢之碎片！"
+"Festive2022_CurrencyName", "禮物幣"
+"Festive2022_Description", "是時候給自己做一杯熱巧克力了，披著柔軟的毯子，加入迪士尼夢幻星谷的節日星路。
+你可以用專屬新物品讓你的整個村莊充滿節日氛圍。贏取裝飾品，把你的世界變成一個冬季仙境，並獲得節日服裝，讓你溫暖又美麗。
+但這還不是全部！除了米奇和梅林的特別新造型外，我們還推出更多方式讓你展示自我，打造出獨一無二專屬於你的夢幻星谷。
+在新的星路任務中感受給予的快樂。堆一個雪人，探索冰霜高地的寒冷山峰，和你所有的迪士尼朋友一起發現新的節日食譜。
+穿好衣服，為探索做好準備，在夢幻星谷度過快樂的假期！"
+"Festive2022_Task01_Description", "清除暗夜荊棘"
+"Festive2022_Task02_Description", "愛撫寵物夥伴"
+"Festive2022_Task03_Description", "在廣場挖礦"
+"Festive2022_Task04_Description", "和米奇進行日常對話"
+"Festive2022_Task05_Description", "和莫娜結伴出遊1小時"
+"Festive2022_Task06_Description", "在草地釣魚"
+"Festive2022_Task07_Description", "和巴斯結伴出行"
+"Festive2022_Task08_Description", "使用羅勒烹製餐食"
+"Festive2022_Task09_Description", "收集星幣"
+"Festive2022_Task10_Description", "出售洋蔥"
+"Festive2022_Task11_Description", "完成夢幻星光任務"
+"Festive2022_Task12_Description", "釣鯖王魚"
+"Festive2022_Task13_Description", "拍一張冰窟的照片"
+"Festive2022_Task14_Description", "收穫甜味作物"
+"Festive2022_Task15_Description", "在小米餐廳招待顧客"
+"Festive2022_Task16_Description", "製作水果蛋糕"
+"Festive2022_Task17_Description", "收穫油菜籽"
+"Festive2022_Task18_Description", "收集紅色花"
+"Festive2022_Task19_Description", "製作聖誕山羊"
+"Festive2022_Task20_Description", "收集星幣"
+"Festive2022_Task21_Description", "給村民送樹莓波霸奶茶"
+"Festive2022_Task22_Description", "收穫秋葵"
+"Festive2022_Task23_Description", "和烏蘇拉進行日常對話"
+"Festive2022_Task24_Description", "和梅林結伴出遊1小時"
+"Festive2022_Task25_Description", "挖掘礦石"
+"Festive2022_Task26_Description", "出售椰子波霸奶茶"
+"Festive2022_Task27_Description", "給唐老鴨送他最喜歡的禮物"
+"Festive2022_Task28_Description", "收穫香草"
+"Festive2022_Task29_Description", "製作節日餐椅"
+"Festive2022_Task30_Description", "收集星幣"
+"Festive2022_Task31_Description", "完成夢幻星光任務"
+"Festive2022_Task32_Description", "烹製5星餐食"
+"Festive2022_Task33_Description", "給安娜送她最喜歡的禮物"
+"Festive2022_Task34_Description", "在信仰林地挖礦"
+"Festive2022_Task35_Description", "和高飛結伴出遊1小時"
+"Festive2022_Task36_Description", "在小米餐廳招待顧客"
+"Festive2022_Task37_Description", "釣魚"
+"Festive2022_Task38_Description", "和梅林一起自拍"
+"Festive2022_Task39_Description", "製作節日餐盤和餐具"
+"Festive2022_Task40_Description", "收集星幣"
+"Festive2022_Task41_Description", "在日照高原釣魚"
+"Festive2022_Task42_Description", "給艾莎送她最喜歡的禮物"
+"Festive2022_Task43_Description", "和刀疤結伴出遊1小時"
+"Festive2022_Task44_Description", "做樹根蛋糕"
+"Festive2022_Task45_Description", "給村民送薑餅屋"
+"Festive2022_Task46_Description", "挖掘紫水晶"
+"Festive2022_Task47_Description", "給米妮送她最喜歡的禮物"
+"Festive2022_Task48_Description", "收穫黃瓜"
+"Festive2022_Task49_Description", "完成夢幻星光任務"
+"Festive2022_Task50_Description", "收集星幣"
+"Festive2022_Title", "節日星路"
+"FestiveDone_Description", "你好，星谷居民！
+
+節日星路現已正式結束。如果你還有剩餘的代幣，現在請趁它們還沒有消失，去兌換成獎勵吧。
+兌換通道將於2月3日關閉。"
+"FestiveDone_Title", "節日星路已結束"
+"FestiveEnding_Description", "星谷居民，你們好！
+
+節日星路即將結束，你只有一週時間來完成賽事任務和兌換代幣獎勵了。
+
+準備好最後的衝刺了嗎？"
+"FestiveEnding_Title", "節日星路即將結束"
+"FestiveStart_Description", "星谷居民，你們好！
+
+我們誠摯地邀請您踏上新的節日星路，加入我們的冬季慶典。
+該賽事從12月6日持續到1月20日，包括獨特的裝飾圖案、服裝、家具、節日狐狸動物夥伴等，有史以來首次呈現的夢幻風格將為你們提供特殊新造型！
+
+我們衷心希望您在星谷玩得開心。"
+"FestiveStart_Title", "節日星路開始"
 "FirstWeekBonus_Description", "感謝您成為《迪士尼夢幻星谷》的首批玩家！爲了感謝您的熱情，請收下附贈的精美獎勵吧！"
 "FirstWeekBonus_Title", "歡迎來到迪士尼夢幻星谷！"
 "FounderPackBaseGame_Description", "感謝您購買創始人包基礎遊戲。祝您遊戲愉快！"
@@ -77,6 +165,10 @@
 "Halloween2022_Title", "反派星路"
 "InfluencerMickeyTangledSet_Description", "送您一份特別禮物！"
 "InfluencerMickeyTangledSet_Title", "特別禮物"
+"Moonstones_Description", "感謝您耐心等待我們清理伺服器的「暗夜荊棘」，我們為您奉上2500顆月亮石。檢視此訊息時記得使用下方的圖示領取。
+如果您還未升級您的反派星路，這些月亮石足以讓您升級！或者您也可以留著它們，在之後的賽季中使用。
+在此搶先體驗階段，我們仍然需要您的耐心包容！從熱補丁到遊戲改進，您的反饋資訊在不斷地幫忙完善《迪士尼夢幻星谷》，我們仍會致力於為您提供一個內容越來越豐富的人生模擬體驗！"
+"Moonstones_Title", "月亮石奉送！"
 "PixarFestStarPath_CurrencyName", "代幣"
 "PixarFestStarPath_Description", "連續舉辦了三年的皮克斯嘉年華讓世界各地的粉絲齊聚一堂，慶祝動畫工作室在世界各地為我們呈現令人難忘的經典角色。而今年，您可以在《迪士尼夢幻星谷》中參與慶典！
 完成節日任務來收集標誌性代幣，獲得根據皮克斯動畫工作室創意設計的時尚新外觀。順著星路開啟旅程，在遊戲中與你最喜愛的迪士尼和皮克斯角色慶祝皮克斯嘉年華。
@@ -116,7 +208,7 @@
 "PromoCodeTest01_Title", "代碼已領取！"
 "promoCodeTest2_Description", "這是你的獎勵"
 "promoCodeTest2_Title", "代碼已領取"
-"PromoCustoTest_Description", "請暢享這些服裝和家具"
+"PromoCustoTest_Description", "請享受這些服裝和家具"
 "PromoCustoTest_Title", "自定義代碼"
 "PromoDLTest_Description", "享受夢幻星光帶來的樂趣"
 "PromoDLTest_Title", "夢幻星光代碼"
@@ -127,6 +219,16 @@
 
 它會藏著什麼樣的秘密呢？！"
 "TheGoldenPotato_Title", "神秘物體"
+"VillainsDone_Description", "星谷居民，你們好！
+
+反派星路現已正式結束。如果你還有剩餘的代幣，現在是用它們兌換獎勵的絕佳時機，之後它們就消失了。
+兌換將於11月29日結束。"
+"VillainsDone_Title", "反派星路已結束"
+"VillainsEnding_Description", "星谷居民，你們好！
+
+反派星路即將結束，你只有一週時間來完成賽事任務和兌換代幣獎勵了。
+準備好最後的衝刺了嗎？"
+"VillainsEnding_Title", "反派星路即將結束"
 "Welcome_Description", "親愛的玩家，
 
 歡迎來到夢幻星谷！

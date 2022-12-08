@@ -11,8 +11,6 @@
 "Village!Moana!Moana!VLG_Moan_060_Group02_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>我應該做什麼？"
 "Village!Moana!Moana!VLG_Moan_060_Group02_StepDescription", "把<ActivityItem>榮耀基座</ActivityItem>放置在你的屋子附近"
 "Village!Moana!Moana!VLG_Moan_060_Group03_Step06_TalkToCharacter01_StepDescription", "和莫娜交談"
-"Village!Moana!Moana!VLG_Moan_060_Group04_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>我應該做什麼？"
-"Village!Moana!Moana!VLG_Moan_060_Group04_Step07_Party01_StepDescription", "和莫娜一起慶祝你的領袖地位"
 "Village!Moana!Moana!VLG_Moan_060_Group05_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>我應該做什麼？"
 "Village!Moana!Moana!VLG_Moan_060_Group05_StepDescription", "把碎片放在<ActivityItem>榮耀基座</ActivityItem>上"
 "Village!Moana!Moana!VLG_Moan_060_Group05_StoryDescription", "在你的屋子附近安放好榮耀基座後，你把<ActivityItem>領袖碎片</ActivityItem>放了上去。慶典的準備工作就此完成。"

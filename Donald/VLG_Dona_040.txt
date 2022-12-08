@@ -1,4 +1,4 @@
-"Village!Mickey!Donald!VLG_Dona_040_Any_CompletedRequestDescription", "和唐老鴨交談。"
+"Village!Mickey!Donald!VLG_Dona_040_Any_CompletedRequestDescription", "和唐老鴨交談"
 "Village!Mickey!Donald!VLG_Dona_040_AvailableDescription", "唐老鴨找到一些東西，裡面似乎藏著可以幫他完成村莊大計劃的秘密。"
 "Village!Mickey!Donald!VLG_Dona_040_CompletedStoryDescription", "你和唐老鴨一起建造了夢幻噴泉來裝扮遺忘之地。"
 "Village!Mickey!Donald!VLG_Dona_040_DisplayName", "夢幻噴泉"

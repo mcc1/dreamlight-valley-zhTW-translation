@@ -40,7 +40,7 @@
 "MotherGothel_006_f", "快來，我們去信仰之柱。"
 "MotherGothel_004_f", "嘖嘖嘖，禮貌點兒，親愛的。"
 "MotherGothel_022_f", "我不喜歡粗魯的人。但這次我會原諒你……"
-"MotherGothel_017_f", "親愛的，喜歡做交易的是海女巫，不是我。"
+"MotherGothel_017_f", "親愛的，喜歡做交易的是海洋女巫，不是我。"
 "MotherGothel_025_f", "不過既然你幫過我，那我就把我的小秘密告訴你吧。"
 "MotherGothel_028_f", "怪我嗎？！釋放詛咒的人是你！"
 "MotherGothel_029_f", "嗯，這可不容易。"

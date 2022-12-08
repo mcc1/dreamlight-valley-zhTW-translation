@@ -34,4 +34,5 @@
 "Diaries!VillainEntries!Loneliness004_DescriptionText", "孤獨是冰冷的。我的心已經因為孤獨而變得麻木。我的思想也變得緩慢而遲鈍。如果能找人說說話，我應該能感到溫暖些。但是這裡空無一人。"
 "Diaries!VillainEntries!NightThorns001_DescriptionText", "我在一棵樹下睡著了。當我醒來時，我發現自己動不了了。紫色的藤蔓爬滿我全身，它們深深刺痛著我，但這依然沒有孤獨來得可怕，所以我努力掙脫了。"
 "Diaries!VillainEntries!Sleepless001_DescriptionText", "我不能睡覺。藤蔓會在我周圍生長。我要是行走，它們就會順著我的腳步生長。"
+"DreamlightValley!Diary!VLG_Wood_040_CarouselDiary_DescriptionText", "……玩具箱裡裝滿了村民們的童年紀念品……為旋轉木馬的燈供電……很高興看到梅林的魔法起作用……"
 "DreamlightValley!Diary01_DescriptionText", "……時間不多了……無論如何，我必須保護……梅林會知道……怎麼做……"

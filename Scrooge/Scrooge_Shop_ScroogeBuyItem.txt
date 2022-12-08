@@ -3,5 +3,5 @@
 "Player_000_choice_001_f", "我再看看……"
 "Scrooge_002_f", "它是你的了。這筆投資很明智哦！"
 "Scrooge_003_f", "好，但別忘了：我的貨物可不是一成不變的。"
-"Scrooge_005_f", "我查了目錄，這件物品目前價值{Price} {CurrencyName}……"
+"Scrooge_005_f", "我查了目錄，這件物品目前價值{Price} <sprite name=StarCoin>……"
 "Scrooge_004_f", "根據我的記錄，你沒有足夠的錢來買下它，{PlayerName}。等你有錢了再來吧，我會很樂意接待你的。"

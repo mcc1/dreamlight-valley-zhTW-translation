@@ -1,0 +1,1 @@
+"Buzz_000_f", "既然你準備好了材料，該去製作<ActivityItem>太空騎警徽章</ActivityItem>了。"

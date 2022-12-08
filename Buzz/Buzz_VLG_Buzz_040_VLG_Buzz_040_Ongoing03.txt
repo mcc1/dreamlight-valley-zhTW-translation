@@ -1,0 +1,2 @@
+"Buzz_000_f", "你需要收集材料。建造基地我們需要<ActivityItem>纖維</ActivityItem>和<ActivityItem>鐵塊</ActivityItem>。"
+"Buzz_001_f", "還需要<ActivityItem>空瓶子</ActivityItem>、一些<ActivityItem>藍色低垂釣鐘柳</ActivityItem>和<ActivityItem>藍星百合</ActivityItem>來做<ActivityItem>徽章</ActivityItem>的染料。"

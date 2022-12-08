@@ -1,0 +1,1 @@
+"Woody_000_f", "製作<ActivityItem>毯子堡壘</ActivityItem>需要一些東西。我想用<ActivityItem>軟木材</ActivityItem>、<ActivityItem>棉花</ActivityItem>、<ActivityItem>布料</ActivityItem>和<ActivityItem>繩子</ActivityItem>和一些<ActivityItem>玻璃</ActivityItem>做一串燈。"

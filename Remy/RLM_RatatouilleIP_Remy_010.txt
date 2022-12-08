@@ -28,7 +28,7 @@
 "Realm!Ratatouille!Remy!RLM_RatatouilleIP_Remy_010_Group09_Step09_StepDescription", "用小米廚房裡的材料製作{ItemName}"
 "Realm!Ratatouille!Remy!RLM_RatatouilleIP_Remy_010_Group10_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>如何處理點單？"
 "Realm!Ratatouille!Remy!RLM_RatatouilleIP_Remy_010_Group10_Step10_FillKeyhole01_StepDescription", "上菜！烹飪1份<ActivityItem>田園沙拉</ActivityItem>，並放在上菜視窗。"
-"Realm!Ratatouille!Remy!RLM_RatatouilleIP_Remy_010_Group10_StoryDescription", "現在你可以為真正的顧客準備真正的食物了，新的點菜單會不斷送來。"
+"Realm!Ratatouille!Remy!RLM_RatatouilleIP_Remy_010_Group10_StoryDescription", "現在你可以為真正的顧客準備真正的食物了，新的點選單會不斷送來。"
 "Realm!Ratatouille!Remy!RLM_RatatouilleIP_Remy_010_Group11_OngoingRequestButton", "<smallcaps>{title}</smallcaps><br>我要洗的盤子在哪兒？"
 "Realm!Ratatouille!Remy!RLM_RatatouilleIP_Remy_010_Group11_Step11_MakeGarden01_StepDescription", "用你的灑水壺清洗<ActivityItem>臟盤子</ActivityItem>"
 "Realm!Ratatouille!Remy!RLM_RatatouilleIP_Remy_010_Group11_StoryDescription", "你遇到了一位小廚師小米，他的餐廳急需幫助。你決定幫他清洗臟盤子。"

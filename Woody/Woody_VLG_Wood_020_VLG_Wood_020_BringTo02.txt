@@ -1,0 +1,3 @@
+"Woody_000_f", "嘿，{PlayerName}！你這麼快就把<ActivityItem>保險絲盒</ActivityItem>做好了。"
+"Woody_003_f", "我已經迫不及待想看旋轉木馬加上燈光的效果了。"
+"Woody_004_f", "走，我們去製作些燈吧！"

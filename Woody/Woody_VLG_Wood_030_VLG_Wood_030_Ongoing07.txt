@@ -1,0 +1,1 @@
+"Woody_000_f", "要修好<ActivityItem>抓娃娃機</ActivityItem>，首先我們需要一些框架的材料：<ActivityItem>硬木</ActivityItem>、<ActivityItem>鐵塊</ActivityItem>和<ActivityItem>玻璃</ActivityItem>。"

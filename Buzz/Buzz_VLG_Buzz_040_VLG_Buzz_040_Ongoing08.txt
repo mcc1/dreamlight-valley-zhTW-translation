@@ -1,0 +1,3 @@
+"Buzz_000_f", "我們要在基地周圍放置物品來舉行儀式——也就是說，要用<ActivityItem>瀝青</ActivityItem>為我們的<ActivityItem>船</ActivityItem>做一個登陸點……"
+"Buzz_001_f", "……還有<ActivityItem>藍色氣球拱門</ActivityItem>。所有物品都必須裝在房車周圍……"
+"Buzz_002_f", "……額，星際總部指揮中心。"
